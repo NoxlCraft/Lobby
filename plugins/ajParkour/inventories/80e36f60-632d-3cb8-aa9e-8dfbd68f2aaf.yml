@@ -1,0 +1,95 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dServer Information
+      lore:
+      - §7Right-click to see information about the server!
+      internal: H4sIAAAAAAAAAONiYOBg4MrIL0lKLPIsSc1l4MjMS8tPys/PZgAA6i1uEhsAAAA=
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLD_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_STAIRS
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_STONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eServer Selector
+      lore:
+      - §7Right-click to open the server selector!
+      internal: H4sIAAAAAAAAAONiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ_BLOCK
+    damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 10
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dPlayers §8§l> §aShown §7(Right-Click)
+      lore:
+      - §7Click to hide all players!
+      internal: H4sIAAAAAAAAAONiYOBg4MrIL0lKLPIsSc1l4AnwcYx0DYr38HRxDWIAAKEnnmkfAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS_PANE
+    damage: 7
+    amount: 8
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

@@ -1,0 +1,33 @@
+location: world:214.434:99.063:317.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c⭐ &4&lNoxl&f&lCraft
+      &f&lNetwork &c&l⚡'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&4┊ &fBine ai venit pe server &4%player_name%&f!'
+    height: 0.3
+  - content: '&4┊ &fPentru a iti incepe aventura foloseste'
+    height: 0.3
+  - content: '&4┊ &fbusola din &4inventar'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&4┊ &fDaca doresti sa ne sustii:'
+    height: 0.3
+  - content: '&4◈ &fPoti sa ne &4votezi &7(vote.noxlcraft.fun)&f'
+    height: 0.3
+  - content: '&4◈ &fPoti sa ne &4donezi &7(store.noxlcraft.fun)&f'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '&c❤ &4play.noxlcraft.fun &c❤'
+    height: 0.3
+  actions: {}
