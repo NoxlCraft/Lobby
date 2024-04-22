@@ -1,9 +1,9 @@
 #  This is where the plugin stores all the areas and portals.
 #  Be careful when editing this file, it could cause some areas or portals to fail to load!
 areas:
-  noxl:
+  spawn:
     difficulty: BALANCED
-    max: 2147483647
-    pos1: world,262,106,17,54.750732,13.5658245
-    pos2: world,146,152,118,236.11816,57.666023
-    fallpos: world,271,59,234,135.42847,5.015877
+    max: 15
+    pos1: world,8,176,625,60.600952,48.00009
+    pos2: world,-56,145,695,-152.54517,28.949938
+    fallpos: world,-78,126,661,-90.0,3.0

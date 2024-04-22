@@ -1,0 +1,103 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_SIGN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"★
+        "},{"italic":false,"color":"gray","text":"Meniu "},{"italic":false,"color":"dark_red","text":"★  "},{"italic":false,"color":"gray","text":"(Click
+        Dreapta)"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      blockMaterial: OAK_SIGN
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COMPASS
+    meta:
+      ==: ItemMeta
+      meta-type: COMPASS
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"★
+        "},{"italic":false,"color":"gray","text":"Busola "},{"italic":false,"color":"dark_red","text":"★  "},{"italic":false,"color":"gray","text":"(Click
+        Dreapta)"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      LodestoneTracked: false
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"★
+        "},{"italic":false,"color":"gray","text":"Profile "},{"italic":false,"color":"red","text":"NaysKutzu
+        "},{"italic":false,"color":"dark_red","text":"★  "},{"italic":false,"color":"gray","text":"(Click
+        Dreapta)"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      internal: H4sIAAAAAAAA/1VUya6jRhSlWx3p9UuW2UTKIvu3cIEnLKWjgLELMAVmNuyYDAUF9mMww29E2UXKD0TKp2SVf8ky9FMvklVJ99x77rlHR/VMUc/UN2bREXKub1dMkifqgxqUCfX0450EY1L/9Ew9z9A9qVucNB+ppzYZ2q5OmmeKot49UR9NnFbB58r7P9pyKTKDmq/Z3ZaLmebBd/ljK+HVQ5hiWXsd45itD4C1lJBsaL1/aNMFphLx3WxRJzFwobnml0aY7hdluI5JrJNlcSmtWquRVqJVM8Bm6+1e4kGVmWw7cjAvsfgQaT2U0Qhd09DVVmTtNrjy2jpPqp2mM+0Lk3HX6dgtaeUsl/bqCMN1iWV6u+FsaScx6jVHRNENnZwO964Odq962A0gM1K2MTLneDCG+6yKxYk77SAOihMn3x2i7VdiU1zvGW0a5SnyAHbheFem1aJyMtob9mr2KiZXv2mnEkfCxu7ETqvlg5ImywJ2ANsIuNh4yXxBYCHjQO/mxwUtJa21JvUx4NCChzFEnR9EZ8ZldOV6H8aaK+PByw/eFsAB9vZ0d659tPAaJI96LF4TWrEcsOC0Baj0Tg9Nqbn1SsIgqbcOdahd0sIKAGBJait6Hm+T4FYmfhJZWymr8s166btNtjUvRuGb2srU6qPPCNBFELtMGO+6l1M9BL2lc5f2Bs0cw4mLtqUgvJhHFVWMuyduDxhsSEj3UqW7VbE1csZ+1bveq7ni0K0/P8a8Z4zzlRWFcdJTj5/DMIDRMDZp2Mhob0+gtSVzl3RZe90MpXberMQqEopj7aCY68lRXY/8o4J8wh/P922sJ9orw7SRsdyE0AQaaQOPkxuoKay4Z0/Ti3lz2DU8iezKQbVy5e0m/fREfeUEpEve/Zb0t1TayyBwaRItjSy8cFgSbimyogFN6Yhyj0ZCwSDcn6Q9hyNRfvglaXybFBLmNvNs4ZVS7wtGgQQ5R5YNkKtizfKxJqQMEkiBLESrrp+jUWr2mEulih9Dxr+H0NG8ee8XHs27kMlcOiCpbKxwb7qmwI0772LQUemY/uVIBxeZ+Hsp1TAPosohX/qAf8lAPGPR+IZt3/bMem3Qyhb+X+1z/8zXv90plfOcyG2UcfcfjnUbuGviLeXMn4MUlg5QlgZJxM867AfKpdGfPVGhN9/l5F7p0V6JeuR6g1ceGDU3sA8N4gsc7edOPntBkOuX6pQR39IHlOsAlYiZkzzN3oyeNfuMpdObNhHML7/bV+ATRX1NvZfi+av58O3Pf/393ffKn7/3v47cD//8QlH/AiQaoWC9BAAA
+      skull-owner: <player>
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: EMERALD
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

@@ -1,0 +1,139 @@
+namelogo:
+  change-interval: 150
+  texts:
+  - "&#D60303&lɴ&#D90303&lᴏ&#DC0303&lx&#DF0202&lʟ&#E30202&lᴄ&#E60202&lʀ&#E90202&lᴀ&#EC0101&lғ&#EF0101&lᴛ"
+  - "&#D90303&lɴ&#D60303&lᴏ&#D90303&lx&#DC0303&lʟ&#DF0202&lᴄ&#E30202&lʀ&#E60202&lᴀ&#E90202&lғ&#EC0101&lᴛ"
+  - "&#DC0303&lɴ&#D90303&lᴏ&#D60303&lx&#D90303&lʟ&#DC0303&lᴄ&#DF0202&lʀ&#E30202&lᴀ&#E60202&lғ&#E90202&lᴛ"
+  - "&#DF0202&lɴ&#DC0303&lᴏ&#D90303&lx&#D60303&lʟ&#D90303&lᴄ&#DC0303&lʀ&#DF0202&lᴀ&#E30202&lғ&#E60202&lᴛ"
+  - "&#E30202&lɴ&#DF0202&lᴏ&#DC0303&lx&#D90303&lʟ&#D60303&lᴄ&#D90303&lʀ&#DC0303&lᴀ&#DF0202&lғ&#E30202&lᴛ"
+  - "&#E60202&lɴ&#E30202&lᴏ&#DF0202&lx&#DC0303&lʟ&#D90303&lᴄ&#D60303&lʀ&#D90303&lᴀ&#DC0303&lғ&#DF0202&lᴛ"
+  - "&#E90202&lɴ&#E60202&lᴏ&#E30202&lx&#DF0202&lʟ&#DC0303&lᴄ&#D90303&lʀ&#D60303&lᴀ&#D90303&lғ&#DC0303&lᴛ"
+  - "&#EC0101&lɴ&#E90202&lᴏ&#E60202&lx&#E30202&lʟ&#DF0202&lᴄ&#DC0303&lʀ&#D90303&lᴀ&#D60303&lғ&#D90303&lᴛ"
+  - "&#EF0101&lɴ&#EC0101&lᴏ&#E90202&lx&#E60202&lʟ&#E30202&lᴄ&#DF0202&lʀ&#DC0303&lᴀ&#D90303&lғ&#D60303&lᴛ"
+  - "&#F20101&lɴ&#EF0101&lᴏ&#EC0101&lx&#E90202&lʟ&#E60202&lᴄ&#E30202&lʀ&#DF0202&lᴀ&#DC0303&lғ&#D90303&lᴛ"
+  - "&#F60101&lɴ&#F20101&lᴏ&#EF0101&lx&#EC0101&lʟ&#E90202&lᴄ&#E60202&lʀ&#E30202&lᴀ&#DF0202&lғ&#DC0303&lᴛ"
+  - "&#F90000&lɴ&#F60101&lᴏ&#F20101&lx&#EF0101&lʟ&#EC0101&lᴄ&#E90202&lʀ&#E60202&lᴀ&#E30202&lғ&#DF0202&lᴛ"
+  - "&#FC0000&lɴ&#F90000&lᴏ&#F60101&lx&#F20101&lʟ&#EF0101&lᴄ&#EC0101&lʀ&#E90202&lᴀ&#E60202&lғ&#E30202&lᴛ"
+  - "&#FF0000&lɴ&#FC0000&lᴏ&#F90000&lx&#F60101&lʟ&#F20101&lᴄ&#EF0101&lʀ&#EC0101&lᴀ&#E90202&lғ&#E60202&lᴛ"
+  - "&#FF0600&lɴ&#FF0000&lᴏ&#FC0000&lx&#F90000&lʟ&#F60101&lᴄ&#F20101&lʀ&#EF0101&lᴀ&#EC0101&lғ&#E90202&lᴛ"
+  - "&#FF0D00&lɴ&#FF0600&lᴏ&#FF0000&lx&#FC0000&lʟ&#F90000&lᴄ&#F60101&lʀ&#F20101&lᴀ&#EF0101&lғ&#EC0101&lᴛ"
+  - "&#FF1300&lɴ&#FF0D00&lᴏ&#FF0600&lx&#FF0000&lʟ&#FC0000&lᴄ&#F90000&lʀ&#F60101&lᴀ&#F20101&lғ&#EF0101&lᴛ"
+  - "&#FF1A00&lɴ&#FF1300&lᴏ&#FF0D00&lx&#FF0600&lʟ&#FF0000&lᴄ&#FC0000&lʀ&#F90000&lᴀ&#F60101&lғ&#F20101&lᴛ"
+  - "&#FF2000&lɴ&#FF1A00&lᴏ&#FF1300&lx&#FF0D00&lʟ&#FF0600&lᴄ&#FF0000&lʀ&#FC0000&lᴀ&#F90000&lғ&#F60101&lᴛ"
+  - "&#FF2600&lɴ&#FF2000&lᴏ&#FF1A00&lx&#FF1300&lʟ&#FF0D00&lᴄ&#FF0600&lʀ&#FF0000&lᴀ&#FC0000&lғ&#F90000&lᴛ"
+  - "&#FF2D00&lɴ&#FF2600&lᴏ&#FF2000&lx&#FF1A00&lʟ&#FF1300&lᴄ&#FF0D00&lʀ&#FF0600&lᴀ&#FF0000&lғ&#FC0000&lᴛ"
+  - "&#FF3300&lɴ&#FF2D00&lᴏ&#FF2600&lx&#FF2000&lʟ&#FF1A00&lᴄ&#FF1300&lʀ&#FF0D00&lᴀ&#FF0600&lғ&#FF0000&lᴛ"
+  - "&#FF3900&lɴ&#FF3300&lᴏ&#FF2D00&lx&#FF2600&lʟ&#FF2000&lᴄ&#FF1A00&lʀ&#FF1300&lᴀ&#FF0D00&lғ&#FF0600&lᴛ"
+  - "&#FF4000&lɴ&#FF3900&lᴏ&#FF3300&lx&#FF2D00&lʟ&#FF2600&lᴄ&#FF2000&lʀ&#FF1A00&lᴀ&#FF1300&lғ&#FF0D00&lᴛ"
+  - "&#FF4600&lɴ&#FF4000&lᴏ&#FF3900&lx&#FF3300&lʟ&#FF2D00&lᴄ&#FF2600&lʀ&#FF2000&lᴀ&#FF1A00&lғ&#FF1300&lᴛ"
+  - "&#FF4D00&lɴ&#FF4600&lᴏ&#FF4000&lx&#FF3900&lʟ&#FF3300&lᴄ&#FF2D00&lʀ&#FF2600&lᴀ&#FF2000&lғ&#FF1A00&lᴛ"
+  - "&#FF5300&lɴ&#FF4D00&lᴏ&#FF4600&lx&#FF4000&lʟ&#FF3900&lᴄ&#FF3300&lʀ&#FF2D00&lᴀ&#FF2600&lғ&#FF2000&lᴛ"
+  - "&#FF4D00&lɴ&#FF5300&lᴏ&#FF4D00&lx&#FF4600&lʟ&#FF4000&lᴄ&#FF3900&lʀ&#FF3300&lᴀ&#FF2D00&lғ&#FF2600&lᴛ"
+  - "&#FF4600&lɴ&#FF4D00&lᴏ&#FF5300&lx&#FF4D00&lʟ&#FF4600&lᴄ&#FF4000&lʀ&#FF3900&lᴀ&#FF3300&lғ&#FF2D00&lᴛ"
+  - "&#FF4000&lɴ&#FF4600&lᴏ&#FF4D00&lx&#FF5300&lʟ&#FF4D00&lᴄ&#FF4600&lʀ&#FF4000&lᴀ&#FF3900&lғ&#FF3300&lᴛ"
+  - "&#FF3900&lɴ&#FF4000&lᴏ&#FF4600&lx&#FF4D00&lʟ&#FF5300&lᴄ&#FF4D00&lʀ&#FF4600&lᴀ&#FF4000&lғ&#FF3900&lᴛ"
+  - "&#FF3300&lɴ&#FF3900&lᴏ&#FF4000&lx&#FF4600&lʟ&#FF4D00&lᴄ&#FF5300&lʀ&#FF4D00&lᴀ&#FF4600&lғ&#FF4000&lᴛ"
+  - "&#FF2D00&lɴ&#FF3300&lᴏ&#FF3900&lx&#FF4000&lʟ&#FF4600&lᴄ&#FF4D00&lʀ&#FF5300&lᴀ&#FF4D00&lғ&#FF4600&lᴛ"
+  - "&#FF2600&lɴ&#FF2D00&lᴏ&#FF3300&lx&#FF3900&lʟ&#FF4000&lᴄ&#FF4600&lʀ&#FF4D00&lᴀ&#FF5300&lғ&#FF4D00&lᴛ"
+  - "&#FF2000&lɴ&#FF2600&lᴏ&#FF2D00&lx&#FF3300&lʟ&#FF3900&lᴄ&#FF4000&lʀ&#FF4600&lᴀ&#FF4D00&lғ&#FF5300&lᴛ"
+  - "&#FF1A00&lɴ&#FF2000&lᴏ&#FF2600&lx&#FF2D00&lʟ&#FF3300&lᴄ&#FF3900&lʀ&#FF4000&lᴀ&#FF4600&lғ&#FF4D00&lᴛ"
+  - "&#FF1300&lɴ&#FF1A00&lᴏ&#FF2000&lx&#FF2600&lʟ&#FF2D00&lᴄ&#FF3300&lʀ&#FF3900&lᴀ&#FF4000&lғ&#FF4600&lᴛ"
+  - "&#FF0D00&lɴ&#FF1300&lᴏ&#FF1A00&lx&#FF2000&lʟ&#FF2600&lᴄ&#FF2D00&lʀ&#FF3300&lᴀ&#FF3900&lғ&#FF4000&lᴛ"
+  - "&#FF0600&lɴ&#FF0D00&lᴏ&#FF1300&lx&#FF1A00&lʟ&#FF2000&lᴄ&#FF2600&lʀ&#FF2D00&lᴀ&#FF3300&lғ&#FF3900&lᴛ"
+  - "&#FF0000&lɴ&#FF0600&lᴏ&#FF0D00&lx&#FF1300&lʟ&#FF1A00&lᴄ&#FF2000&lʀ&#FF2600&lᴀ&#FF2D00&lғ&#FF3300&lᴛ"
+  - "&#FC0000&lɴ&#FF0000&lᴏ&#FF0600&lx&#FF0D00&lʟ&#FF1300&lᴄ&#FF1A00&lʀ&#FF2000&lᴀ&#FF2600&lғ&#FF2D00&lᴛ"
+  - "&#F90000&lɴ&#FC0000&lᴏ&#FF0000&lx&#FF0600&lʟ&#FF0D00&lᴄ&#FF1300&lʀ&#FF1A00&lᴀ&#FF2000&lғ&#FF2600&lᴛ"
+  - "&#F60101&lɴ&#F90000&lᴏ&#FC0000&lx&#FF0000&lʟ&#FF0600&lᴄ&#FF0D00&lʀ&#FF1300&lᴀ&#FF1A00&lғ&#FF2000&lᴛ"
+  - "&#F20101&lɴ&#F60101&lᴏ&#F90000&lx&#FC0000&lʟ&#FF0000&lᴄ&#FF0600&lʀ&#FF0D00&lᴀ&#FF1300&lғ&#FF1A00&lᴛ"
+  - "&#EF0101&lɴ&#F20101&lᴏ&#F60101&lx&#F90000&lʟ&#FC0000&lᴄ&#FF0000&lʀ&#FF0600&lᴀ&#FF0D00&lғ&#FF1300&lᴛ"
+  - "&#EC0101&lɴ&#EF0101&lᴏ&#F20101&lx&#F60101&lʟ&#F90000&lᴄ&#FC0000&lʀ&#FF0000&lᴀ&#FF0600&lғ&#FF0D00&lᴛ"
+  - "&#E90202&lɴ&#EC0101&lᴏ&#EF0101&lx&#F20101&lʟ&#F60101&lᴄ&#F90000&lʀ&#FC0000&lᴀ&#FF0000&lғ&#FF0600&lᴛ"
+  - "&#E60202&lɴ&#E90202&lᴏ&#EC0101&lx&#EF0101&lʟ&#F20101&lᴄ&#F60101&lʀ&#F90000&lᴀ&#FC0000&lғ&#FF0000&lᴛ"
+  - "&#E30202&lɴ&#E60202&lᴏ&#E90202&lx&#EC0101&lʟ&#EF0101&lᴄ&#F20101&lʀ&#F60101&lᴀ&#F90000&lғ&#FC0000&lᴛ"
+  - "&#DF0202&lɴ&#E30202&lᴏ&#E60202&lx&#E90202&lʟ&#EC0101&lᴄ&#EF0101&lʀ&#F20101&lᴀ&#F60101&lғ&#F90000&lᴛ"
+  - "&#DC0303&lɴ&#DF0202&lᴏ&#E30202&lx&#E60202&lʟ&#E90202&lᴄ&#EC0101&lʀ&#EF0101&lᴀ&#F20101&lғ&#F60101&lᴛ"
+  - "&#D90303&lɴ&#DC0303&lᴏ&#DF0202&lx&#E30202&lʟ&#E60202&lᴄ&#E90202&lʀ&#EC0101&lᴀ&#EF0101&lғ&#F20101&lᴛ"
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&6w&eww.domain.com'
+  - '&ew&6w&ew.domain.com'
+  - '&eww&6w&e.domain.com'
+  - '&ewww&6.&edomain.com'
+  - '&ewww.&6d&eomain.com'
+  - '&ewww.d&6o&emain.com'
+  - '&ewww.do&6m&eain.com'
+  - '&ewww.dom&6a&ein.com'
+  - '&ewww.doma&6i&en.com'
+  - '&ewww.domai&6n&e.com'
+  - '&ewww.domain&6.&ecom'
+  - '&ewww.domain.&6c&eom'
+  - '&ewww.domain.c&6o&em'
+  - '&ewww.domain.co&6m'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
+links: 
+  change-interval: 1000
+  texts:
+  - "&c  &cwww.noxlcraft.fun&8 | &7discord.noxlcraft.fun  \n&7vote.noxlcraft.fun"    
+  - "&7  www.noxlcraft.fun&8 | &c&ndiscord.noxlcraft.fun&7  \n&7vote.noxlcraft.fun"   
+  - "&7  www.noxlcraft.fun&8 | &7discord.noxlcraft.fun  \n&c&nvote.noxlcraft.fun&7"   

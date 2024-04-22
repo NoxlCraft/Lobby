@@ -1,0 +1,80 @@
+
+menu:
+  settings-name: '&4&k.&r &cMeniu Principal &4&k.'
+  settings-rows: 5
+  settings-open-commands: menu
+  settings-permission: superlobby.menu.menu
+  settings-open-sound: NOTE_PLING
+  settings-glass-enable: true
+  settings-glass-color: 14
+  items:
+    gamemode:
+      name: '&4&l<3> &c&lBusola &4&l<3>'
+      lore:
+      - '&4&m--------------------'
+      - ''
+      - '&7Vrei sa te jocii si tu ceva?'
+      - ''
+      - '&4&m--------------------'
+      material: PLAYER_HEAD
+      material-old: SKULL_ITEM:3
+      slot: 12
+      keep-open: true
+      skull: url:http://textures.minecraft.net/texture/e063a0ebb2d8010273b6c45b64e84d83b1e43e2ca5dfb2a6fd838c3f88827d
+      commands:
+      - 'player: serverselector'
+    profile:
+      name: '&4&l<3> &c&lProfil &4&l<3>'
+      lore:
+      - '&4&m---------------------------------'
+      - '&7General player information,'
+      - '&7statistics, achievements among others.'
+      - '&4&m---------------------------------'
+      material: PLAYER_HEAD
+      material-old: SKULL_ITEM:3
+      skull: <player>
+      slot: 16
+      keep-open: true
+      commands:
+      - 'tell: &c>> &7Link:'
+      - 'tell: &c>> &chttps://panel.noxlcraft.fun/users/<player>'
+    options:
+      name: '&4&l<3> &c&lVote &4&l<3>'
+      lore:
+      - '&4&m-------------------------'
+      - ''
+      - '&c&l&nvote.noxlcraft.fun'
+      - ''
+      - '&4&m-------------------------'
+      material: REPEATER
+      material-old: DIODE
+      slot: 22
+      commands:
+      - 'tell: &c>> &7Link:'
+      - 'tell: &c>> &chttps://vote.noxlcraft.fun'
+    shop:
+      name: '&4&l<3> &c&lStore &4&l<3>'
+      lore:
+      - '&4&m-------------------------'
+      - ''
+      - '&c&l&nstore.noxlcraft.fun'
+      - ''
+      - '&4&m-------------------------'
+      material: DIAMOND
+      slot: 24
+      keep-open: false
+      commands:
+      - 'tell: &c>> &7Link:'
+      - 'tell: &c>> &chttps://store.noxlcraft.fun'
+    referrals:
+      name: '&4&l<3> &c&lParkour &4&l<3>'
+      lore:
+      - '&4&m--------------------------'
+      - ''
+      - '&7Ai chef de un mic parkour?'
+      - ''
+      - '&4&m--------------------------'
+      material: 'LADDER'
+      slot: 14
+      commands:
+      - 'player: ajp start'

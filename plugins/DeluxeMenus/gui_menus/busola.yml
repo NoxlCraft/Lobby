@@ -1,0 +1,184 @@
+menu_title: '&8           Busola | Sectiuni'
+open_command: serverselector
+size: 45
+items:
+  'surv':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ0OWI5MzE4ZTMzMTU4ZTY0YTQ2YWIwZGUxMjFjM2Q0MDAwMGUzMzMyYzE1NzQ5MzJiM2M4NDlkOGZhMGRjMiJ9fX0=
+    slot: 20
+    display_name: '&7「 &4&lSurvival &7%bungee_survival% &7」'
+    lore:
+    - '&7'
+    - '&4| &cOnline: &7%bungee_survival%  '
+    - '&4| &cVersiune: &71.16.x - 1.20.x  '
+    - ''
+    - ' &4&o➝ &c&oClick pentru a te conecta  '
+    - ''
+    left_click_commands:
+    - '[connect] survival'
+    right_click_commands:
+    - '[connect] survival'
+  'skyblock':
+    material: hdb-29431
+    data: 0
+    amount: 1
+    slot: 21
+    display_name: '&7「 &4&lSkyCoon &7%bungee_skycoon% &7」'
+    lore:
+    - '&7'
+    - '&4| &cOnline: &7%bungee_skycoon%  '
+    - '&4| &cVersiune: &71.16.x - 1.20.x  '
+    - ''
+    - ' &4&o➝ &c&oClick pentru a te conecta  '
+    - ''
+    left_click_commands:
+    - '[connect] skycoon'
+    right_click_commands:
+    - '[connect] skycoon'
+  'prison':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjE0ZTI3MTQzNGEyNThmMTdhNDJiNDAyN2VlZDQxZjI1YWViYjRkNTM4NzliMTYxMTU1M2UyNWM5ZGNjMzgifX19
+    data: 0
+    amount: 1
+    slot: 22
+    priority: 2
+    display_name: '&7「 &4&lBoxPvP &7%bungee_prison% &7」'
+    lore:
+    - '&7'
+    - '&4| &cOnline: &7%bungee_boxpvp%  '
+    - '&4| &cVersiune: &71.19.4-1.20.x'
+    - ''
+    - ' &4&o➝ &c&oClick pentru a te conecta  '
+    - ''
+    left_click_commands:
+    - '[connect] boxpvp'
+    right_click_commands:
+    - '[connect] boxpvp'
+  'thepit':
+    material: hdb-33818
+    data: 0
+    amount: 1
+    slot: 23
+    priority: 2
+    display_name: '&7「 &4&lThePit &7%bungee_thepit% &7」'
+    lore:
+    - '&7'
+    - '&4| &cOnline: &7%bungee_thepit%  '
+    - '&4| &cVersiune: &71.8.x - 1.20.x  '
+    - ''
+    - ' &4&o➝ &c&oClick pentru a te conecta  '
+    - ''
+    left_click_commands:
+    - '[connect] thepit'
+    right_click_commands:
+    - '[connect] thepit'
+  'assasinss':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q2ZDEzM2UxZGZmMTQyMGY1ZWM4MGNkMWYzZTdiYTIyMmZjOGMzM2ZhMDQ0OTMxZjY1ZTNiYzY5NzNhNDgifX19
+    data: 0
+    amount: 1
+    slot: 24
+    priority: 2
+    display_name: '&7「 &4&lAssasinss &7%bungee_asassinss% &7」'
+    lore:
+    - '&7'
+    - '&4| &cOnline: &7%bungee_asassinss%  '
+    - '&4| &cVersiune: &71.8.x - 1.20.x  '
+    - ''
+    - ' &4&o➝ &c&oClick pentru a te conecta  '
+    - ''
+    left_click_commands:
+    - '[connect] asassinss'
+    right_click_commands:
+    - '[connect] asassinss'
+  'vote':
+    display_name: '&8▸ &4&lVOTE &8◂'
+    material: hdb-8232
+    lore: 
+    - '&7'
+    - '&4| &7Daca doresti sa ne sustii,'
+    - '&7poti vota server-ul prin:'
+    - '&7'
+    - '&c&nwww.noxlcraft.fun/vote'
+    - '&7'
+    left_click_commands:
+    - '[message] &7( &c&lConsole &8➛ &7%player_name% ) &7https://noxlcraft.fun/vote'
+    slots:
+    - 5
+  'store':
+    display_name: '&8▸ &4&lSTORE &8◂'  
+    material: hdb-8357
+    lore: 
+    - '&7'
+    - '&4| &7Daca doresti sa ne sustii,'
+    - '&7poti vota server-ul prin:'
+    - '&7'
+    - '&c&nhttps://store.noxlcraft.fun'
+    - '&7'
+    left_click_commands:
+    - '[message] &7( &c&lConsole &8➛ &7%player_name% ) &7https://store.noxlcraft.fun'    
+    slots:
+    - 41 
+  'dash':
+    display_name: '&8▸ &4&lPanel &8◂'
+    material: hdb-8233
+    lore: 
+    - '&7'
+    - '&4| &7Daca doresti sa ne sustii,'
+    - '&7poti vota server-ul prin:'
+    - '&7'
+    - '&c&nhttps://panel.noxlcraft.fun'
+    - '&7'
+    left_click_commands:
+    - '[message] &7( &c&lConsole &8➛ &7%player_name% ) &7https://panel.noxlcraft.fun'    
+    slots:
+    - 3
+  'discord':
+    display_name: '&8▸ &4&lDiscord &8◂'  
+    material: hdb-4320
+    lore: 
+    - '&7'
+    - '&4| &7Daca doresti sa ne sustii,'
+    - '&7poti vota server-ul prin:'
+    - '&7'
+    - '&c&nwww.noxlcraft.fun/discord'
+    - '&7'
+    left_click_commands:
+    - '[message] &7( &c&lConsole &8➛ &7%player_name% ) &7https://noxlcraft.fun/discord'    
+    slots:
+    - 39           
+  'blue_light':
+    material: STAINED_GLASS_PANE
+    data: 3
+    slots:
+    - 0
+    - 1
+    - 7
+    - 8
+    - 9
+    - 17
+    - 27
+    - 35
+    - 36
+    - 37
+    - 44
+    - 43
+  'black':
+    material: STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 18
+    - 19
+    - 25
+    - 26
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
