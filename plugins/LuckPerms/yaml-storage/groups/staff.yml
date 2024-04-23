@@ -1,0 +1,13 @@
+name: staff
+permissions:
+- '*'
+- displayname.Staff
+- weight.100
+parents:
+- default
+prefixes:
+- '&4&lSTAFF &r':
+    priority: 100
+suffixes:
+- ☠:
+    priority: 100

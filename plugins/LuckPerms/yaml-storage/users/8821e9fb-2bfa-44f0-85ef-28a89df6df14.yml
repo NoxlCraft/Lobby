@@ -1,0 +1,7 @@
+uuid: 8821e9fb-2bfa-44f0-85ef-28a89df6df14
+name: M1ha1V2
+primary-group: default
+permissions:
+- '*'
+parents:
+- default

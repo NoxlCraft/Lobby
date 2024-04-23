@@ -1,0 +1,7 @@
+uuid: bf3c476e-381f-3377-af73-8dcd17fc6514
+name: alice152
+primary-group: default
+permissions:
+- '*'
+parents:
+- default

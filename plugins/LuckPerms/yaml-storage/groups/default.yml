@@ -1,0 +1,8 @@
+name: default
+permissions:
+- superlobby.items.game
+- superlobby.items.menu
+- superlobby.items.profile
+prefixes:
+- '&7&lMembru &r':
+    priority: 0

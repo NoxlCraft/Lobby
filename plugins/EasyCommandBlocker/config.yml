@@ -505,6 +505,7 @@ commands:
   - "/setadmin1"
   - "/setstaff"
   - "/addstaff"
+  - "/lp"
 custom_commands_actions:
   example1:
     commands:
