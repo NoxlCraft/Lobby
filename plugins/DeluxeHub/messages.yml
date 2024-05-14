@@ -1,0 +1,78 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# PLUGIN MESSAGES
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+Messages:
+  GENERAL:
+    PREFIX: "&c&lNoxl&f&lCraft &7»"
+    NO_PERMISSION: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
+    CUSTOM_COMMAND_NO_PERMISSION: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
+    INVALID_PLAYER: "%prefix% &c%player% &7nu este online!"
+    CONFIG_RELOAD: "%prefix% &7Am reincarcat pluginul in &c%time%ms"
+    COOLDOWN_ACTIVE: "%prefix% &7Te rog sa astepti &c%time%s&7!"
+
+  GAMEMODE:
+    GAMEMODE_CHANGE: "%prefix% &7Modul de joc a fost schimbat la &c%gamemode%"
+    GAMEMODE_CHANGE_OTHER: "%prefix% &7Ai schimbat modul de joc la &c%gamemode% &7pentru &c%player%"
+    GAMEMODE_INVALID: "%prefix% &c%gamemode% &7nu poate fi gasit"
+
+  VANISH:
+    ENABLE: "%prefix% &7Acuma esti &cascuns"
+    DISABLE: "%prefix% &7Acuma nu mai esti &cascuns"
+
+  FLIGHT:
+    ENABLE: "%prefix% &7Ai activat modul de &cfly"
+    DISABLE: "%prefix% &7Ai oprit modul de &cfly"
+    ENABLE_OTHER: "%prefix% &7Ai activat modul de &cfly&7 pentru &c%player%"
+    DISABLE_OTHER: "%prefix% &7Ai oprit modul de &cfly&7 pentru &c%player%"
+
+  PLAYER_HIDER:
+    HIDDEN: "%prefix% &7Vizibilitatea jucatorilor este &copornita"
+    SHOWN: "%prefix% &7Vizibilitatea jucatorilor este &cpornita"
+
+  LOBBY:
+    SET_LOBBY: "%prefix% &aYou have successfully set the lobby spawn point"
+
+  CHAT:
+    CLEARCHAT: "&7Chat-ul a fost sters"
+    CLEARCHAT_PLAYER: "&7Chat-ul a fost sters"
+
+    LOCKED: "%prefix% &cChat &7este blocat"
+    LOCKED_BROADCAST: "%prefix% &b%player% &chas locked global chat"
+    UNLOCKED_BROADCAST: "%prefix% &b%player% &ahas unlocked global chat"
+
+    ANTI_SWEAR_WORD_BLOCKED: "%prefix% &7Te rog sa nu injuri"
+    ANTI_SWEAR_ADMIN_NOTIFY: "%prefix% &c%player% &7a vurt sa zica: &c%word%"
+
+    COMMAND_BLOCKED: "%prefix% &7Manuta ca nu e voie"
+
+  SCOREBOARD:
+    TOGGLE: "%prefix% &7Scoreboard-ul este acuma &c%value%"
+
+  DOUBLE_JUMP:
+    COOLDOWN_ACTIVE: "%prefix% &7Te rog sa astepti!"
+
+  WORLD_EVENT_MODIFICATIONS:
+    ITEM_DROP: "%prefix% &7Te rog sa nu."
+    ITEM_PICKUP: "%prefix% &7Nu ai voie sa iei iteme de pe jos."
+    BLOCK_PLACE: "%prefix% &7Te rog sa nu."
+    BLOCK_BREAK: "%prefix% &7Te rog sa nu."
+    BLOCK_INTERACT: "%prefix% &7Te rog sa nu."
+    PLAYER_PVP: "%prefix% &c&lAUCHHHHH! &7Nu mai da in mine!!"
+
+  HOLOGRAMS:
+    EMPTY: "%prefix% &cCould not find any holograms."
+    ALREADY_EXISTS: "%prefix% &cThere is a hologram with this name already &7(%name%)&c."
+    INVALID_HOLOGRAM: "%prefix% &cThere is no hologram with this name &7(%name%)&c."
+    INVALID_LINE: "%prefix% &cCould not find hologram line."
+
+    SPAWNED: "%prefix% &7Created new hologram with name &b%name%&7."
+    DESPAWNED: "%prefix% &7Removed hologram with name &b%name%&7."
+    MOVED: "%prefix% &7Moved hologram &b%name%&7."
+
+    LINE_SET: "%prefix% &7Set line &b%line%&7."
+    ADDED_LINE: "%prefix% &7Added new line."
+    REMOVED_LINE: "%prefix% &7Removed line &b%line%&7."
+
+  ANTI_WORLD_DOWNLOADER:
+    ADMIN_NOTIFY: "%prefix% &7%player% &chas joined with the World Downloader Mod, their ability to use it has been restricted by our systems."

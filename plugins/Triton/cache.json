@@ -1,0 +1,35 @@
+{
+  "mainLanguage": "en_GB",
+  "languages": [
+    {
+      "name": "en_GB",
+      "minecraftCodes": [
+        "en_GB",
+        "en_AU",
+        "en_CA",
+        "en_NZ",
+        "en_PT",
+        "en_UD",
+        "en_US"
+      ],
+      "rawDisplayName": "\u00267English (\u0026cUK\u00267)",
+      "fallbackLanguages": [
+        "ro_RO"
+      ],
+      "flagCode": "eapwplpnpmbzbj",
+      "cmds": []
+    },
+    {
+      "name": "ro_RO",
+      "minecraftCodes": [
+        "ron_RO"
+      ],
+      "rawDisplayName": "\u00267Romana (\u0026cRO\u00267)",
+      "fallbackLanguages": [
+        "en_GB"
+      ],
+      "flagCode": "laefbE",
+      "cmds": []
+    }
+  ]
+}

@@ -1,3 +1,5 @@
 /logs/*
 /cache/*
 /plugins/SuperLobby/libs
+plugins/Citizens/lib
+plugins/LuckPerms/lib

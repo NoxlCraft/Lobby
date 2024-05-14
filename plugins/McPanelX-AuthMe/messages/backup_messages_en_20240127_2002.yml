@@ -1,0 +1,184 @@
+denied_command: '&7[&4&lNoxl&c&lCraft&7] &8» &7In order to use this command you must be authenticated!'
+same_ip_online: '&7[&4&lNoxl&c&lCraft&7] &8» &7&lA player with the same IP is already in game! &8&l(&4&l✗&8&l)'
+denied_chat: '&7[&4&lNoxl&c&lCraft&7] &8» &7In order to chat you must be authenticated!'
+kick_antibot: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot protection mode is enabled! You have to wait some minutes before joining the server.'
+unknown_user: '&7[&4&lNoxl&c&lCraft&7] &8» &7Can''t find the requested user in the database!'
+unsafe_spawn: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your quit location was unsafe, you have been teleported to the world''s spawnpoint.'
+not_logged_in: '&7[&4&lNoxl&c&lCraft&7] &8» &7You''re not logged in!'
+reg_voluntarily: '&7[&4&lNoxl&c&lCraft&7] &8» &7You can register yourself to the server with the command "/register <password> <ConfirmPassword>"'
+usage_log: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7              &7Please login to your account.
+  &7                    &7/login <password>
+  &8
+  &8
+wrong_pwd: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7             &7Wrong password please try again.
+  &7                    &7/login <password>
+  &8
+  &8
+unregistered: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Successfully unregistered!'
+reg_disabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7In-game registration is disabled!'
+valid_session: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7                    &a&lAuto Session Login.
+  &7                         &a&lWelcome Back
+  &8
+  &8
+login: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7                   &a&lSuccessfully Login.
+  &7                       &a&lWelcome Back
+  &8
+  &8
+vb_nonActiv: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your account isn''t activated yet, please check your emails!'
+user_regged: '&7[&4&lNoxl&c&lCraft&7] &8» &7You already have registered this username!'
+usage_reg: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7        &7Please register to playing on our server.
+  &7              &7/register <password> <email>
+  &8
+  &8
+max_reg: '&7[&4&lNoxl&c&lCraft&7] &8» &7You have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!'
+no_perm: '&7[&4&lNoxl&c&lCraft&7] &8» &7You don''t have the permission to perform this action!'
+error: '&7[&4&lNoxl&c&lCraft&7] &8» &7An unexpected error occurred, please contact an administrator!'
+login_msg: |-
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7              &7Please login to your account.
+  &7                    &7/login <password>
+  &8
+reg_msg: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7        &7Please register to playing on our server.
+  &7              &7/register <password> <email>
+  &8
+  &8
+reg_email_msg: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7             &7Please register to the server with email.
+  &7                    &7/register <email> <password>
+  &8
+  &8
+usage_unreg: '&7[&4&lNoxl&c&lCraft&7] &8» &7Usage /unregister <password>'
+pwd_changed: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Password changed successfully!'
+user_unknown: '&7[&4&lNoxl&c&lCraft&7] &8» &7This user isn''t registered!'
+password_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7Passwords didn''t match, check them again!'
+password_error_nick: '&7[&4&lNoxl&c&lCraft&7] &8» &7You can''t use your name as password, please choose another one...'
+password_error_unsafe: '&7[&4&lNoxl&c&lCraft&7] &8» &7The chosen password isn''t safe, please choose another one...'
+password_error_chars: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your password contains illegal characters. Allowed chars: REG_EX'
+invalid_session: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your IP has been changed and your session data has expired!'
+reg_only: '&7[&4&lNoxl&c&lCraft&7] &8» &7Only registered users can join the server! Please visit panel.noxlcraft.fun to register yourself!'
+logged_in: '&7[&4&lNoxl&c&lCraft&7] &8» &7You''re already logged in!'
+logout: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Logged-out successfully!'
+same_nick: '&7[&4&lNoxl&c&lCraft&7] &8» &7The same username is already playing on the server!'
+registered: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Successfully registered!'
+pass_len: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your password is too short or too long! Please try with another one!'
+reload: '&7[&4&lNoxl&c&lCraft&7] &8» &7Configuration and database have been reloaded correctly!'
+timeout: '&7[&4&lNoxl&c&lCraft&7] &8» &7&lLogin timeout exceeded, you have been kicked from the server, please try again! &8&l(&4&l✗&8&l)'
+usage_changepassword: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7              &7Please make a strong password.
+  &7     &7/changepass <oldpassword> <newpassword>
+  &8
+  &8
+name_len: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your username is either too short or too long! &8&l(&4&l✗&8&l)'
+regex: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your username contains illegal characters. Allowed chars: REG_EX &8&l(&4&l✗&8&l)'
+add_email: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7            &7Please add your email to your account.
+  &7                    &7/email add <email> <email>
+  &8
+  &8
+recovery_email: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7                     &7Forgot your password?.
+  &7                   &7/email recovery <yourEmail>
+  &8
+  &8
+usage_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7To login you have to solve a captcha code, please use the command "/captcha <theCaptcha>"'
+wrong_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7Wrong captcha, please type "/captcha THE_CAPTCHA" into the chat!'
+valid_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Captcha code solved correctly!'
+kick_forvip: '&7[&4&lNoxl&c&lCraft&7] &8» &7&7&lA VIP player has joined the server when it was full!'
+kick_fullserver: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7The server is full, try again later!'
+usage_email_add: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7            &7Please add your email to your account.
+  &7                    &7/email add <email> <email>
+  &8
+  &8
+usage_email_change: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7            &7Please add your email to your account.
+  &7                  &7/email add <OldEmail> <NewEmail>
+  &8
+  &8
+usage_email_recovery: |-
+  &8
+  &7
+  &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+  &7
+  &7                     &7Forgot your password?.
+  &7                   &7/email recovery <yourEmail>
+  &8
+  &8
+new_email_invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7Invalid new email, try again!'
+old_email_invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7Invalid old email, try again!'
+email_invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7Invalid email address, try again!'
+email_added: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Email address successfully added to your account!'
+email_confirm: '&7[&4&lNoxl&c&lCraft&7] &8» &7Please confirm your email address!'
+email_changed: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Email address changed correctly!'
+email_send: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Recovery email sent successfully! Please check your email inbox!'
+email_exists: '&7[&4&lNoxl&c&lCraft&7] &8» &7A recovery email was already sent! You can discard it and send a new one using the command below:'
+country_banned: '&7[&4&lNoxl&c&lCraft&7] &8» &7&lYour country is banned from this server! '
+antibot_auto_enabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot enabled due to the huge number of connections!'
+antibot_auto_disabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot disabled after %m minutes!'
+email_already_used: '&7[&4&lNoxl&c&lCraft&7] &8» &7The email address is already being used'
+two_factor_create: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7Your secret code is %code. You can scan it from here %url'
+not_owner_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7This name aready registered '
+invalid_name_case: '&7[&4&lNoxl&c&lCraft&7] &8» &7You should join using username %valid, not %invalid. '
+tempban_max_logins: '&7[&4&lNoxl&c&lCraft&7] &8» &7 You have been temporarily banned for failing to log in too many times.'
+accounts_owned_self: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7You own &c%count&7 accounts:'
+accounts_owned_other: ' &7[&4&lNoxl&c&lCraft&7] &8» &7&7The player &c%name&7 has &c%count &7accounts:'
+kicked_admin_registered: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7An admin just registered you; please log in again'
+incomplete_email_settings: '&7[&4&lNoxl&c&lCraft&7] &8» &7Not all required settings are set for sending emails. Please contact an admin.'
+recovery_code_sent: '&7[&4&lNoxl&c&lCraft&7] &8» &7 &7A recovery code to reset your password has been sent to your email.'
+recovery_code_incorrect: '&7[&4&lNoxl&c&lCraft&7] &8» &7The recovery code is not correct! Use /email recovery [email] to generate a new one'

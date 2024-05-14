@@ -1,0 +1,302 @@
+# Registration
+registration:
+    disabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_registration_disabled[/lang]'
+    name_taken: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_registration_name_taken[/lang]'
+    register_request: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7        &7[lang]authme_registration_register_request[/lang]
+    
+      &7              &7/register <[lang]authme_password[/lang]> <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    command_usage: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7        &7Please register to playing on our server.
+    
+      &7              &7/register <[lang]authme_password[/lang]> <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    reg_only: '&7[&4&lNoxl&c&lCraft&7] &8» &7Only registered users can join the server! Please visit panel.noxlcraft.fun to register yourself!'
+    success: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_registration_success[/lang]'
+    kicked_admin_registered: '&7[&4&lNoxl&c&lCraft&7] &8» &7An admin just registered you; please log in again'
+# Password errors on registration
+password:
+    match_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_password_match_error[/lang]'
+    name_in_password: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_password_name_in_password[/lang]'
+    unsafe_password: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]auth_password_unsafe_password[/lang]'
+    forbidden_characters: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_password_forbidden_characters[/lang] %valid_chars'
+    wrong_length: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_password_wrong_length[/lang]'
+# Login
+login:
+    command_usage: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7              &7[lang]authme_login_command_usage[/lang]
+    
+      &7                    &7/login <[lang]authme_password[/lang]>
+    
+      &8
+    
+      &8'
+    wrong_password: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7             &7[lang]authme_login_wrong_password[/lang]
+    
+      &7                    &7/login <[lang]authme_password[/lang]>
+    
+      &8
+    
+      &8'
+    success: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7                   &a&l[lang]authme_login_success[/lang]
+    
+      &7                       &a&l[lang]authme_welcome_back[/lang]
+    
+      &8
+    
+      &8'
+    login_request: '&7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7              &7[lang]authme_login_login_request[/lang]
+    
+      &7                    &7/login <[lang]authme_password[/lang]>
+    
+      &8'
+    timeout_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7&l[lang]authme_login_timeout_error[/lang]'
+# Errors
+error:
+    denied_command: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]auth_error_denied_command[/lang]'
+    denied_chat: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_denied_chat[/lang]'
+    unregistered_user: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_unregistered_user[/lang]'
+    not_logged_in: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_not_logged_in[/lang]'
+    no_permission: '[lang]no_perm_or_not_exist[/lang]'
+    unexpected_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_unexpected_error[/lang]'
+    max_registration: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_max_registration[/lang]'
+    logged_in: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_logged_in[/lang]'
+    kick_for_vip: '&7[&4&lNoxl&c&lCraft&7] &8» &7A VIP player has joined the server when it was full!'
+    kick_unresolved_hostname: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_error_kick_unresolved_hostname[/lang]'
+    tempban_max_logins: '&7[&4&lNoxl&c&lCraft&7] &8» &7You have been temporarily banned for failing to log in too many times.'
+# AntiBot
+antibot:
+    kick_antibot: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot protection mode is enabled! You have to wait some minutes before joining the server.'
+    auto_enabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot enabled due to the huge number of connections!'
+    auto_disabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7AntiBot disabled after %m minutes!'
+# Unregister
+unregister:
+    success: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_unregister_sucess[/lang]'
+    command_usage: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]usage[/lang] /unregister <[lang]authme_password[/lang]>'
+# Other messages
+misc:
+    account_not_activated: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_misc_account_not_activated[/lang]'
+    password_changed: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_misc_password_changed[/lang]'
+    logout: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_misc_logout[/lang]'
+    reload: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_misc_reload[/lang]'
+    usage_change_password: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7              &7[lang]authme_usage_strong_pwd[/lang]
+    
+      &7     &7/changepass <[lang]authme_password_old[/lang]> <[lang]authme_new_password[/lang]>
+    
+      &8
+    
+      &8'
+    accounts_owned_self: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_you_own[/lang] &c%count&7 [lang]authme_accounts[/lang]:'
+    accounts_owned_other: ' &7[&4&lNoxl&c&lCraft&7] &8» &7&7The player &c%name&7 has &c%count &7accounts:'
+# Session messages
+session:
+    valid_session: ''
+    invalid_session: ''
+# Error messages when joining
+on_join_validation:
+    same_ip_online: '&7[&4&lNoxl&c&lCraft&7] &8» &7&l[lang]authme_on_join_validation_same_ip_online[/lang] &8&l(&4&l✗&8&l)'
+    same_nick_online: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_same_nick_online[/lang]'
+    name_length: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_name_length[/lang] &8&l(&4&l✗&8&l)'
+    characters_in_name: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_characters_in_name[/lang] %valid_chars &8&l(&4&l✗&8&l)'
+    kick_full_server: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_kick_full_server[/lang]'
+    country_banned: '&7[&4&lNoxl&c&lCraft&7] &8» &7&lYour country is banned from this server! '
+    not_owner_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_not_owner_error[/lang]'
+    invalid_name_case: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_join_using[/lang] %valid, [lang]authme_not[/lang] %invalid. '
+    quick_command: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_on_join_validation_quick_command[/lang]'
+# Email
+email:
+    add_email_request: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7            &7[lang]authme_email_add_email_request[/lang]
+    
+      &7                    &7/email add <[lang]authme_email[/lang]> <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    usage_email_add: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7            &7[lang]authme_usage_email_add[/lang]
+    
+      &7                    &7/email add <[lang]authme_email[/lang]> <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    usage_email_change: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7            &7[lang]authme_email_usage_email_change[/lang]
+    
+      &7                  &7/email add <OldEmail> <NewEmail>
+    
+      &8
+    
+      &8'
+    new_email_invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]email_new_email_invalid[/lang]'
+    old_email_invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_old_email_invalid[/lang]'
+    invalid: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_email_invalid[/lang]'
+    added: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_email_added[/lang]'
+    add_not_allowed: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_email_add_not_allowed[/lang]'
+    request_confirmation: '&7[&4&lNoxl&c&lCraft&7] &8» &7Please confirm your email address!'
+    changed: '&7[&4&lNoxl&c&lCraft&7] &8» &7Email address changed correctly!'
+    change_not_allowed: '&7[&4&lNoxl&c&lCraft&7] &8» &7Changing email was not allowed.'
+    email_show: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_email_show[/lang] &c%email'
+    no_email_for_account: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_no_email_for_account[/lang]'
+    already_used: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]authme_already_used[/lang]'
+    incomplete_settings: '&7[&4&lNoxl&c&lCraft&7] &8» &7Not all required settings are set for sending emails. Please contact an admin.'
+    send_failure: '&7[&4&lNoxl&c&lCraft&7] &8» &7The email could not be sent. Please contact an administrator.'
+    change_password_expired: '&7[&4&lNoxl&c&lCraft&7] &8» &7You cannot change your password using this command anymore.'
+    email_cooldown_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7An email was already sent recently. You must wait %time before you can send a new one.'
+# Password recovery by email
+recovery:
+    forgot_password_hint: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7                     &7Forgot your password?.
+    
+      &7                   &7/email recovery <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    command_usage: '&8
+    
+      &7
+    
+      &7                    &6✯ &7&l&n&4&lNoxl&c&lSecurity&6 ✯
+    
+      &7
+    
+      &7                     &7Forgot your password?.
+    
+      &7                   &7/email recovery <[lang]authme_email[/lang]>
+    
+      &8
+    
+      &8'
+    email_sent: '&7[&4&lNoxl&c&lCraft&7] &8» &7Recovery email sent successfully! Please check your email inbox!'
+    code:
+        code_sent: '&7[&4&lNoxl&c&lCraft&7] &8» &7A recovery code to reset your password has been sent to your email.'
+        incorrect: '&7[&4&lNoxl&c&lCraft&7] &8» &7The recovery code is not correct! Use /email recovery [email] to generate a new one'
+        tries_exceeded: '&7[&4&lNoxl&c&lCraft&7] &8» &7You have exceeded the maximum number attempts to enter the recovery code. Use "&c/email recovery [email]&7" to generate a new one.'
+        correct: '&7[&4&lNoxl&c&lCraft&7] &8» &7Recovery code entered correctly!'
+        change_password: '&7[&4&lNoxl&c&lCraft&7] &8» &7Please use the command &c/email setpassword <new password>&7 to change your password immediately.'
+# Captcha
+captcha:
+    usage_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7To login you have to solve a captcha code, please use the command "/captcha %captcha_code"'
+    wrong_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7Wrong captcha, please type "/captcha %captcha_code" into the chat!'
+    valid_captcha: '&7[&4&lNoxl&c&lCraft&7] &8» &7Captcha code solved correctly!'
+    captcha_for_registration: '&7[&4&lNoxl&c&lCraft&7] &8» &7To register you have to solve a captcha first, please use the command: /captcha %captcha_code'
+    register_captcha_valid: '&7[&4&lNoxl&c&lCraft&7] &8» &7Valid captcha! You may now register with /register'
+# Verification code
+verification:
+    code_required: '&7[&4&lNoxl&c&lCraft&7] &8» &7This command is sensitive and requires an email verification! Check your inbox and follow the email''s instructions.'
+    command_usage: '&7[&4&lNoxl&c&lCraft&7] &8» &7[lang]usage[/lang]: /verification <code>'
+    incorrect_code: '&7[&4&lNoxl&c&lCraft&7] &8» &7Incorrect code, please type "/verification <code>" into the chat, using the code you received by email'
+    success: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your identity has been verified! You can now execute all commands within the current session!'
+    already_verified: '&7[&4&lNoxl&c&lCraft&7] &8» &7You can already execute every sensitive command within the current session!'
+    code_expired: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your code has expired! Execute another sensitive command to get a new code!'
+    email_needed: '&7[&4&lNoxl&c&lCraft&7] &8» &7To verify your identity you need to link an email address with your account!!'
+# Time units
+time:
+    second: 'second'
+    seconds: 'seconds'
+    minute: 'minute'
+    minutes: 'minutes'
+    hour: 'hour'
+    hours: 'hours'
+    day: 'day'
+    days: 'days'
+# Two-factor authentication
+two_factor:
+    code_created: '&7[&4&lNoxl&c&lCraft&7] &8» &7Your secret code is %code. You can scan it from here %url'
+    confirmation_required: '&7[&4&lNoxl&c&lCraft&7] &8» &7Please confirm your code with /2fa confirm <code>'
+    code_required: '&7[&4&lNoxl&c&lCraft&7] &8» &7Please submit your two-factor authentication code with /2fa code <code>'
+    already_enabled: '&7[&4&lNoxl&c&lCraft&7] &8» &7Two-factor authentication is already enabled for your account!'
+    enable_error_no_code: '&7[&4&lNoxl&c&lCraft&7] &8» &7No 2fa key has been generated for you or it has expired. Please run /2fa add'
+    enable_success: '&7[&4&lNoxl&c&lCraft&7] &8» &7Successfully enabled two-factor authentication for your account'
+    enable_error_wrong_code: '&7[&4&lNoxl&c&lCraft&7] &8» &7Wrong code or code has expired. Please run /2fa add'
+    not_enabled_error: '&7[&4&lNoxl&c&lCraft&7] &8» &7Two-factor authentication is not enabled for your account. Run /2fa add'
+    removed_success: '&7[&4&lNoxl&c&lCraft&7] &8» &7Successfully removed two-factor auth from your account'
+    invalid_code: '&7[&4&lNoxl&c&lCraft&7] &8» &7Invalid code!'

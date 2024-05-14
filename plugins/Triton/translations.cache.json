@@ -1,0 +1,1208 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "core_shutdown_message",
+      "type": "text",
+      "languages": {
+        "en_GB": "The server went offline, sadly!",
+        "ro_RO": "Server-ul pe care ai fost conectat a intrat in modul de mentenanta!"
+      }
+    },
+    {
+      "key": "core_whitelist",
+      "type": "text",
+      "languages": {
+        "en_GB": "The server is under maintenance!",
+        "ro_RO": "Server-ul este in mentenanta!"
+      }
+    },
+    {
+      "key": "core_command_not_exist",
+      "type": "text",
+      "languages": {
+        "en_GB": "I am sorry, but this command does not exist!",
+        "ro_RO": "Imi pare rau dar aceasta comanda nu exista!"
+      }
+    },
+    {
+      "key": "core_the_server_is_full",
+      "type": "text",
+      "languages": {
+        "en_GB": "We are so sorry, but the server is full!",
+        "ro_RO": "Din păcate server-ul nostru este full!"
+      }
+    },
+    {
+      "key": "core_join_version",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please only join with the versions: 1.8.x-1.20.x",
+        "ro_RO": "Te rog sa intri doar cu versiunile: 1.8.x-1.20.x"
+      }
+    },
+    {
+      "key": "core_restarting",
+      "type": "text",
+      "languages": {
+        "en_GB": "We are so sorry, but our server is restarting",
+        "ro_RO": "Ne pare rau dar server-ul nostru se reporneste!"
+      }
+    },
+    {
+      "key": "example.translation",
+      "type": "text",
+      "languages": {
+        "en_GB": "[lang]core_color_text[/lang]hello",
+        "ro_RO": "[lang]core_color_text[/lang]hello"
+      }
+    },
+    {
+      "key": "server_authlobby_welcome",
+      "type": "text",
+      "languages": {
+        "en_GB": "Welcome",
+        "ro_RO": "Bine ai venit"
+      }
+    },
+    {
+      "key": "server_authlobby_sb1",
+      "type": "text",
+      "languages": {
+        "en_GB": "Why not join our discord?",
+        "ro_RO": "Te asteptam si pe discord!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "Hmm what does this star do?",
+        "ro_RO": "Hmm oare ce face aceasta stea?"
+      }
+    },
+    {
+      "key": "server_authlobby_item_2",
+      "type": "text",
+      "languages": {
+        "en_GB": "I think it teleports to the main lobby!",
+        "ro_RO": "Cred ca te trimite in lobby-ul nostru!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_3",
+      "type": "text",
+      "languages": {
+        "en_GB": "Or maybe not? (Hmmmm)",
+        "ro_RO": "Sau poate nu? (Hmmmm)"
+      }
+    },
+    {
+      "key": "global_server_name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft",
+        "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft"
+      }
+    },
+    {
+      "key": "global_server_ip",
+      "type": "text",
+      "languages": {
+        "en_GB": "play.noxlcraft.fun",
+        "ro_RO": "play.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_website",
+      "type": "text",
+      "languages": {
+        "en_GB": "www.noxlcraft.fun",
+        "ro_RO": "www.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_store",
+      "type": "text",
+      "languages": {
+        "en_GB": "store.noxlcraft.fun",
+        "ro_RO": "store.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_discord",
+      "type": "text",
+      "languages": {
+        "en_GB": "discord.noxlcraft.fun",
+        "ro_RO": "discord.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_vote",
+      "type": "text",
+      "languages": {
+        "en_GB": "vote.noxlcraft.fun",
+        "ro_RO": "vote.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_playername",
+      "type": "text",
+      "languages": {
+        "en_GB": "Name",
+        "ro_RO": "Nume"
+      }
+    },
+    {
+      "key": "global_playerrank",
+      "type": "text",
+      "languages": {
+        "en_GB": "Rank",
+        "ro_RO": "Grad"
+      }
+    },
+    {
+      "key": "global_prefix",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» ",
+        "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» "
+      }
+    },
+    {
+      "key": "core_color_main",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264",
+        "ro_RO": "\u00264"
+      }
+    },
+    {
+      "key": "core_color_secondary",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c",
+        "ro_RO": "\u0026c"
+      }
+    },
+    {
+      "key": "core_color_text",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267",
+        "ro_RO": "\u00267"
+      }
+    },
+    {
+      "key": "flamecord_user_online_at",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267is online on \u0026c%2",
+        "ro_RO": "\u0026c%1 \u00267este online la \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_already_connected",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You are already connected to this server",
+        "ro_RO": "Tu esti deja conectat la acest server!"
+      }
+    },
+    {
+      "key": "flamecord_already_connected_proxy",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You are already connected to this server!",
+        "ro_RO": "\u00267Deja te conectezi la acest server!"
+      }
+    },
+    {
+      "key": "flamecord_connect_kick",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You were kicked while you were trying to connect to \u0026c%1\u00267: \u0026c%2",
+        "ro_RO": "\u00267Ai fost deconectat in timp ce te conectai la \u0026c%1\u00267: \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_current_server",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You are right now connected to \u0026c5%1.",
+        "ro_RO": "\u00267Esti in prezent conectat la \u0026c%1."
+      }
+    },
+    {
+      "key": "flamecord_fallback_kick",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Could not connect to a default or backup server, please try again later: \u0026c%1",
+        "ro_RO": "\u00267Nu s-a putut conecta la un server implicit sau de rezerva, te rugam sa incerci din nou mai tarziu: \u0026c%1"
+      }
+    },
+    {
+      "key": "flamecord_fallback_lobby",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Could not connect to the target server, you have been moved to a backup server.",
+        "ro_RO": "\u00267Nu s-a putut conecta la serverul tinta, ai fost mutat la un server de rezerva."
+      }
+    },
+    {
+      "key": "flamecord_lost_connection",
+      "type": "text",
+      "languages": {
+        "en_GB": "The connection was lost with our proxy server!",
+        "ro_RO": "Conexiune pierduta cu serverul."
+      }
+    },
+    {
+      "key": "flamecord_mojang_fail",
+      "type": "text",
+      "languages": {
+        "en_GB": "There was an error while we tried to connect to the Mojang Servers!",
+        "ro_RO": "A aparut o eroare in timpul contactarii serverelor de autentificare!"
+      }
+    },
+    {
+      "key": "flamecord_no_server",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That server does not exist \u0026cpookie\u00267!",
+        "ro_RO": "\u00267Serverul specificat nu exista."
+      }
+    },
+    {
+      "key": "flamecord_reload",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267All files have been reloaded successfully!",
+        "ro_RO": "\u00267Toate fisierele au fost reincarcate cu succes!"
+      }
+    },
+    {
+      "key": "flamecord_server_list",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Poti sa te conectezi la urmatoarele servere in acest moment: ",
+        "ro_RO": "\u00267You can connect to the following servers right now:"
+      }
+    },
+    {
+      "key": "flamecord_server_went_down",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267The server you were previously connected to failed, you were connected to a backup server!",
+        "ro_RO": "\u00267Serverul la care erai anterior a picat, ai fost conectat la un server de rezerva"
+      }
+    },
+    {
+      "key": "flamecord_total_players",
+      "type": "text",
+      "languages": {
+        "en_GB": "Total players online: %1",
+        "ro_RO": "Jucatori totali online: %1"
+      }
+    },
+    {
+      "key": "flamecord_name_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Username contains invalid characters.",
+        "ro_RO": "Numele de utilizator contine caractere nevalide."
+      }
+    },
+    {
+      "key": "flamecord_ping_cannot_connect",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Cannot connect to server.",
+        "ro_RO": "\u00267Nu se poate conecta la server."
+      }
+    },
+    {
+      "key": "flamecord_offline_mode_player",
+      "type": "text",
+      "languages": {
+        "en_GB": "You are not logged in to Minecraft.net",
+        "ro_RO": "Nu esti autentificat cu Minecraft.net"
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_required",
+      "type": "text",
+      "languages": {
+        "en_GB": "A secure profile is required to join this server.",
+        "ro_RO": "Este necesar un profil securizat pentru a te alatura acestui server."
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_expired",
+      "type": "text",
+      "languages": {
+        "en_GB": "Secure profile expired!",
+        "ro_RO": "Profil securizat expirat."
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267The secure profile is not valid!",
+        "ro_RO": "\u00267Te rog sa intri cu un cont premium!"
+      }
+    },
+    {
+      "key": "flamecord_message_needed",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You need to specify a message.",
+        "ro_RO": "\u00267Trebuie sa furnizezi un mesaj."
+      }
+    },
+    {
+      "key": "flamecord_error_occurred_player",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267An error occurred while analyzing your message.",
+        "ro_RO": "\u00267A aparut o eroare in timpul analizarii mesajului tau."
+      }
+    },
+    {
+      "key": "flamecord_error_occurred_console",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267An error occurred while parsing your message: \u0026c%1",
+        "ro_RO": "\u00267A aparut o eroare in timpul analizarii mesajului tau: \u0026c%1"
+      }
+    },
+    {
+      "key": "flamecord_server_command_hover_players",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1\u00267 players",
+        "ro_RO": "\u0026c%1\u00267 jucatori"
+      }
+    },
+    {
+      "key": "flamecord_command_list",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267[\u0026c%1\u00267] \u00267(\u0026c%2\u00267): \u0026c%3",
+        "ro_RO": "\u00267[\u0026c%1\u00267] \u00267(\u0026c%2\u00267): \u0026c%3"
+      }
+    },
+    {
+      "key": "flamecord_alert",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267[\u00264Alert\u00267]\u0026r ",
+        "ro_RO": "\u00267[\u00264Alerta\u00267]\u0026r "
+      }
+    },
+    {
+      "key": "flamecord_help",
+      "type": "text",
+      "languages": {
+        "en_GB": "  \u00264FlameCord\u00267 \u0026c%1\u00267 translated by \u0026cNaysKutzu\n  \u0026c /flamecord reload\u00267 \u003e\u00267 Reload the plugin!\n  \u0026c /flamecord firewall \u003cadd/remove\u003e \u003cip\u003e\u00267 \u003e\u00267 Add or remove ips from firewall!\n  \u0026c /flamecord lockdown\u00267 \u003e\u00267 See the status for the lockdown\n  \u0026c /bplugins\u00267 \u003e\u00267 Shows list of bungee plugins\n  \u0026c /bip \u003cplayer\u003e\u00267 \u003e\u00267 Shows a player IP\n  \u0026c /flamecord help\u00267 \u003e\u00267 Shows this menu",
+        "ro_RO": "  \u00264FlameCord\u00267 \u0026c%1\u00267 tradus de \u0026cNaysKutzu\n  \u0026c /flamecord reload\u00267 \u003e\u00267 Reincarca fisierele FlameCord!\n  \u0026c /flamecord firewall \u003cadd/remove\u003e \u003cip\u003e\u00267 \u003e\u00267 Adauga sau elimina IP-uri din firewall!\n  \u0026c /flamecord lockdown\u00267 \u003e\u00267 Verifica starea de blocare!\n  \u0026c /bplugins\u00267 \u003e\u00267 Afiseaza lista de pluginuri!\n  \u0026c /bip \u003cjucator\u003e\u00267 \u003e\u00267 Arata IP-ul si informatiile despre un jucator!\n  \u0026c /flamecord help\u00267 \u003e\u00267 Arata acest mesaj de ajutor!"
+      }
+    },
+    {
+      "key": "flamecord_click_to_connect",
+      "type": "text",
+      "languages": {
+        "en_GB": "Click to connect to the server.",
+        "ro_RO": "Click pentru a te conecta la server."
+      }
+    },
+    {
+      "key": "flamecord_username_needed",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Te rugam sa urmezi aceasta comanda cu un nume de utilizator.",
+        "ro_RO": "\u00267Please follow this command with a username."
+      }
+    },
+    {
+      "key": "flamecord_user_not_online",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That user is not online.",
+        "ro_RO": "\u00267Acel utilizator nu este online."
+      }
+    },
+    {
+      "key": "flamecord_send_cmd_usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Not enough arguments, usage: \u0026c/send \u003cserver|player|all|current\u003e \u003cdestination\u003e",
+        "ro_RO": "\u00267Nu sunt suficiente argumente, utilizare: \u0026c/send \u003cserver|jucator|toti|curent\u003e \u003cdestinatie\u003e"
+      }
+    },
+    {
+      "key": "flamecord_player_only",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Only players in the game can use this command",
+        "ro_RO": "\u00267Doar jucatorii in joc pot folosi aceasta comanda"
+      }
+    },
+    {
+      "key": "flamecord_you_got_summoned",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have been moved to \u0026c%1\u00267 by \u0026c%2",
+        "ro_RO": "\u00267Ai fost mutat pe \u0026c%1\u00267 de \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_command_perms_groups",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have the following groups: \u0026c%1\u00267",
+        "ro_RO": "\u00267Ai urmatoarele grupuri: \u0026c%1\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_perms_permission",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267- \u0026c%1\u00267",
+        "ro_RO": "\u00267- \u0026c%1\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_ip",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1\u00267\u0027s \u00267IP is \u0026c%2\u00267",
+        "ro_RO": "\u00267IP-ul lui \u0026c%1\u00267 este \u0026c%2\u00267"
+      }
+    },
+    {
+      "key": "flamecord_illegal_chat_characters",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Invalid characters in chat (\u0026c%1\u00267)",
+        "ro_RO": "\u00267Caractere nevalide in chat (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_do_you_think_this_is_an_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Error? Contact us at:\u0026c",
+        "ro_RO": "\u00267Eroare? Contacteaza-ne pe:\u0026c"
+      }
+    },
+    {
+      "key": "flamecord_antibot_accounts",
+      "type": "text",
+      "languages": {
+        "en_GB": "You have too many accounts! (\u0026c%1\u00267)",
+        "ro_RO": "¡Ai prea multe conturi! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_fastchat",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡You speak too fast!",
+        "ro_RO": "\u00267¡Vorbesti prea repede!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_firewall",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡You are on the blacklist of this server!",
+        "ro_RO": "\u00267¡Esti pe lista neagra a acestui server!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_nickname",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡Your nickname has been detected as a bot! (\u0026c%1\u00267)",
+        "ro_RO": "\u00267¡Pseudonimul tau a fost detectat ca bot! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡Use another password! (\u0026c%1\u00267)",
+        "ro_RO": "  \u00267¡Foloseste alta parola! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_ratelimit",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡You are connecting too fast! (\u0026c%1\u00267)",
+        "ro_RO": "\u00267¡Te conectezi prea repede! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_reconnect",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Reconnect \u0026c%1\u00267 more times",
+        "ro_RO": "\u00267Reconectare \u0026c%1\u00267 ori in plus"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_ping",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Update server list \u0026c%1\u00267 more times",
+        "ro_RO": "\u00267Actualizare lista servere \u0026c%1\u00267 ori in plus"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_message",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267(Do it slowly)",
+        "ro_RO": "\u00267(Fa-o incet)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_country",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡Your country \u0026c%1\u00267 is blacklisted!",
+        "ro_RO": "\u00267¡Tara ta \u0026c%1\u00267 este pe lista neagra!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_proxy",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡You are using a Proxy/VPN! (\u0026c%1\u00267)",
+        "ro_RO": "  \u00267¡Folosesti un Proxy/VPN! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_lockdown",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Server blocked. ¡Wait a minute to join!",
+        "ro_RO": "\u00267Server blocat. ¡Asteapta un minut pentru a te alatura!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_stats",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267\u0026lAntibot Statistics [lang]global_server_name[/lang]\n   \u00267■ Total Pings: \u0026c%1\n   \u00267■ Total Connections: \u0026c%2\n\n   \u00267■ Current Pings: \u0026c%3/s\n   \u00267■ Current Connections: \u0026c%4/s\n\n   \u00267■ Total Firewalls: \u0026c%5\n   \u00267■ Current Firewalls: \u0026c%6/s",
+        "ro_RO": "  \u00267\u0026lStatistici Antibot [lang]global_server_name[/lang]\n   \u00267■ Total Pings: \u0026c%1\n   \u00267■ Total Conexiuni: \u0026c%2\n\n   \u00267■ Pings Curente: \u0026c%3/s\n   \u00267■ Conexiuni Curente: \u0026c%4/s\n\n   \u00267■ Total Firewall-uri: \u0026c%5\n   \u00267■ Firewall-uri Curente: \u0026c%6/s"
+      }
+    },
+    {
+      "key": "flamecord_antibot_stats_actionbar",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Pings: \u0026c%1/s \u00267- \u00267Connections: \u0026c%2/s\u00267 - \u00267Firewalls:\u0026c%3",
+        "ro_RO": "\u00267Pings: \u0026c%1/s \u00267- \u00267Conexiuni: \u0026c%2/s\u00267 - \u00267Firewall-uri:\u0026c%3"
+      }
+    },
+    {
+      "key": "flamecord_firewall_help",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267/flamecord firewall \u003cadd/remove\u003e \u003cip\u003e",
+        "ro_RO": "\u00267/flamecord firewall \u003cadauga/scoate\u003e \u003cip\u003e"
+      }
+    },
+    {
+      "key": "flamecord_firewall_add",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267IP \u0026c%1\u00267 has been added to the firewall!",
+        "ro_RO": "\u00267IP-ul \u0026c%1\u00267 a fost adaugat in firewall!"
+      }
+    },
+    {
+      "key": "flamecord_firewall_remove",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267IP \u0026c%1\u00267 has been removed from the firewall!",
+        "ro_RO": "\u00267IP-ul \u0026c%1\u00267 a fost eliminat din firewall!"
+      }
+    },
+    {
+      "key": "flamecord_bplugins_header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Plugins (\u0026c%1\u00267): ",
+        "ro_RO": "\u00267Pluginuri (\u0026c%1\u00267): "
+      }
+    },
+    {
+      "key": "flamecord_bip_offline",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That player is not online!",
+        "ro_RO": "\u00267Acel jucator nu este online!"
+      }
+    },
+    {
+      "key": "flamecord_bip_usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267/bip \u003cname\u003e",
+        "ro_RO": "\u00267/bip \u003cjucator\u003e"
+      }
+    },
+    {
+      "key": "flamecord_bip",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Information about \u0026c%1\u00267\u00267:\n  \u00267UUID: \u0026c%2\n  \u00267IP: \u0026c%3\n  \u00267Ping: \u0026c%4ms\n  \u00267City: \u0026c%5\n  \u00267Viewing distance: \u0026c%6\n  \u00267Current Server: \u0026c\u00267",
+        "ro_RO": "  \u00267Informatii despre \u0026c%1\u00267\u00267:\n  \u00267UUID: \u0026c%2\n  \u00267IP: \u0026c%3\n  \u00267Ping: \u0026c%4ms\n  \u00267Localitate: \u0026c%5\n  \u00267Distanta de vizualizare: \u0026c%6\n  \u00267Serverul Curent: \u0026c\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_list_format",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Servers:\u0026r",
+        "ro_RO": "\u00267Servere:\u0026r"
+      }
+    },
+    {
+      "key": "flamecord_antibot_latency",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u00267¡Your ping is too high! \u00267(\u0026c%1\u00267ms)",
+        "ro_RO": "\u00267¡Ping-ul tau este prea mare \u00267(\u0026c%1\u00267ms)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_fastchat_cancel",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267¡You are repeating chats too fast! Please \u00264\u0026lSTOP!!!\u0026r",
+        "ro_RO": "\u00267¡Te rog nu mai spama\u0026r"
+      }
+    },
+    {
+      "key": "flamecord_accounts_help",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/accounts \u00267\u003cadd/remove\u003e \u003cip\u003e \u003cname\u003e",
+        "ro_RO": "\u00267Foloeste: \u0026c/accounts \u003cadauga/scoate\u003e \u003cip\u003e \u003cnume\u003e"
+      }
+    },
+    {
+      "key": "flamecord_accounts_add",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nickname \u0026c%1 \u00267has been added to the account with IP \u0026c%2\u00267.",
+        "ro_RO": "\u00267User-ul \u0026c%1 \u00267a fost adaugat cu IP-ul \u0026c%2."
+      }
+    },
+    {
+      "key": "flamecord_accounts_remove",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nickname \u0026c%1 \u00267has been removed from the account with IP \u0026c%2\u00267.",
+        "ro_RO": "\u00267Contul \u0026c%1 \u00267a fost eliminat din lista cu IP \u0026c%2\u00267."
+      }
+    },
+    {
+      "key": "flamecord_accounts_clear",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267All nicknames have been cleared from the account with IP \u0026c%1\u00267.",
+        "ro_RO": "\u00267Toate conturile au fost sterse din contul cu IP \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "flamecord_bkick_default",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have been kicked from the server.",
+        "ro_RO": "\u00267Ai fost dat afara de pe server."
+      }
+    },
+    {
+      "key": "flamecord_bkick_notfound",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Player not found or is not currently connected.",
+        "ro_RO": "\u00267Playerul nu a fost gasit sau nu este conectat in prezent."
+      }
+    },
+    {
+      "key": "flamecord_bkick_usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/bkick \u003cplayer\u003e [reason]",
+        "ro_RO": "\u00267Foloeste: \u0026c/bkick \u003cnume\u003e [motiv]"
+      }
+    },
+    {
+      "key": "flamecord_bkick",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1\u00267 has been kicked from the server.",
+        "ro_RO": "\u0026c%1\u00267 a fost exclus de pe server."
+      }
+    },
+    {
+      "key": "authme_registration_disabled",
+      "type": "text",
+      "languages": {
+        "en_GB": "In-game registration is disabled!",
+        "ro_RO": "Înregistrarea în joc este dezactivată!"
+      }
+    },
+    {
+      "key": "authme_registration_name_taken",
+      "type": "text",
+      "languages": {
+        "en_GB": "You already have registered this username!",
+        "ro_RO": "Ați înregistrat deja acest nume de utilizator!"
+      }
+    },
+    {
+      "key": "authme_registration_register_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please register to playing on our server.",
+        "ro_RO": "Va rugam sa va inregistrati pentru a juca pe serverul nostru."
+      }
+    },
+    {
+      "key": "authme_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "password",
+        "ro_RO": "parola"
+      }
+    },
+    {
+      "key": "authme_email",
+      "type": "text",
+      "languages": {
+        "en_GB": "email",
+        "ro_RO": "email"
+      }
+    },
+    {
+      "key": "authme_username",
+      "type": "text",
+      "languages": {
+        "en_GB": "username",
+        "ro_RO": "nume"
+      }
+    },
+    {
+      "key": "authme_registration_success",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully registered!",
+        "ro_RO": "Înregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_password_match_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "Passwords didn\u0027t match, check them again!",
+        "ro_RO": "Parolele nu s-au potrivit, verificați-le din nou!"
+      }
+    },
+    {
+      "key": "authme_password_name_in_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "You can\u0027t use your name as password, please choose another one...",
+        "ro_RO": "Nu vă puteți folosi numele ca parolă, vă rugăm să alegeți altul..."
+      }
+    },
+    {
+      "key": "auth_password_unsafe_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "The chosen password isn\u0027t safe, please choose another one...",
+        "ro_RO": "Parola aleasă nu este sigură, vă rugăm să alegeți alta..."
+      }
+    },
+    {
+      "key": "authme_password_forbidden_characters",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your password contains illegal characters. Allowed chars:",
+        "ro_RO": "Parola dvs. conține caractere ilegale. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_password_wrong_length",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your password is too short or too long! Please try with another one!",
+        "ro_RO": "Parola dvs. este prea scurtă sau prea lungă! Vă rog să încercați cu altul!"
+      }
+    },
+    {
+      "key": "authme_login_command_usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_wrong_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "Wrong password please try again.",
+        "ro_RO": "Parolă greșită, încercați din nou."
+      }
+    },
+    {
+      "key": "authme_login_success",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully Login.",
+        "ro_RO": "Conectare cu succes."
+      }
+    },
+    {
+      "key": "authme_welcome_back",
+      "type": "text",
+      "languages": {
+        "en_GB": "Welcome Back",
+        "ro_RO": "Bine ai revenit"
+      }
+    },
+    {
+      "key": "authme_login_login_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_timeout_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "Login timeout exceeded, you have been kicked from the server, please try again!",
+        "ro_RO": "Timpul de conectare a fost depășit, ați fost exclus de pe server, vă rugăm să încercați din nou!"
+      }
+    },
+    {
+      "key": "auth_error_denied_command",
+      "type": "text",
+      "languages": {
+        "en_GB": "In order to use this command you must be authenticated!",
+        "ro_RO": "Pentru a utiliza această comandă trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_denied_chat",
+      "type": "text",
+      "languages": {
+        "en_GB": "In order to chat you must be authenticated!",
+        "ro_RO": "Pentru a conversa prin chat trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unregistered_user",
+      "type": "text",
+      "languages": {
+        "en_GB": "Can\u0027t find the requested user in the database!",
+        "ro_RO": "Nu se găsește utilizatorul solicitat în baza de date!"
+      }
+    },
+    {
+      "key": "authme_error_not_logged_in",
+      "type": "text",
+      "languages": {
+        "en_GB": "You\u0027re not logged in!",
+        "ro_RO": "Nu ești autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unexpected_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "An unexpected error occurred, please contact an administrator!",
+        "ro_RO": "A apărut o eroare neașteptată, vă rugăm să contactați un administrator!"
+      }
+    },
+    {
+      "key": "authme_error_max_registration",
+      "type": "text",
+      "languages": {
+        "en_GB": "You have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!",
+        "ro_RO": "Ați depășit numărul maxim de înregistrări (%reg_count/%max_acc %reg_names) pentru conexiunea dvs.!"
+      }
+    },
+    {
+      "key": "authme_error_logged_in",
+      "type": "text",
+      "languages": {
+        "en_GB": "You\u0027re already logged in!",
+        "ro_RO": "Ești deja autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_kick_unresolved_hostname",
+      "type": "text",
+      "languages": {
+        "en_GB": "An error occurred: unresolved player hostname!",
+        "ro_RO": "A apărut o eroare: numele de gazdă a jucătorului nerezolvat!"
+      }
+    },
+    {
+      "key": "authme_unregister_sucess",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully unregistered!",
+        "ro_RO": "Neînregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_account_not_activated",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your account isn\u0027t activated yet, please check your emails!",
+        "ro_RO": "Contul dvs. nu este încă activat, vă rugăm să vă verificați e-mailurile!"
+      }
+    },
+    {
+      "key": "authme_misc_password_changed",
+      "type": "text",
+      "languages": {
+        "en_GB": "Password changed successfully!",
+        "ro_RO": "Parola a fost schimbată cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_logout",
+      "type": "text",
+      "languages": {
+        "en_GB": "Logged-out successfully!",
+        "ro_RO": "Te-ai deconectat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_reload",
+      "type": "text",
+      "languages": {
+        "en_GB": "Configuration and database have been reloaded correctly!",
+        "ro_RO": "Configurația și baza de date au fost reîncărcate corect!"
+      }
+    },
+    {
+      "key": "authme_usage_strong_pwd",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please make a strong password.",
+        "ro_RO": "Vă rugăm să faceți o parolă puternică."
+      }
+    },
+    {
+      "key": "authme_password_old",
+      "type": "text",
+      "languages": {
+        "en_GB": "Old Password",
+        "ro_RO": "Parola Veche"
+      }
+    },
+    {
+      "key": "authme_new_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "New Password",
+        "ro_RO": "Noua Parola"
+      }
+    },
+    {
+      "key": "authme_you_own",
+      "type": "text",
+      "languages": {
+        "en_GB": "You own",
+        "ro_RO": "Tu deții"
+      }
+    },
+    {
+      "key": "authme_accounts",
+      "type": "text",
+      "languages": {
+        "en_GB": "accounts",
+        "ro_RO": "conturii"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_ip_online",
+      "type": "text",
+      "languages": {
+        "en_GB": "A player with the same IP is already in game!",
+        "ro_RO": "Un jucător cu același IP este deja în joc!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_nick_online",
+      "type": "text",
+      "languages": {
+        "en_GB": "The same username is already playing on the server!",
+        "ro_RO": "Același nume de utilizator se joacă deja pe server!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_name_length",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your username is either too short or too long!",
+        "ro_RO": "Numele tău de utilizator este fie prea scurt, fie prea lung!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_characters_in_name",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your username contains illegal characters. Allowed chars:",
+        "ro_RO": "Numele dumneavoastră de utilizator conține caractere nepermise. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_kick_full_server",
+      "type": "text",
+      "languages": {
+        "en_GB": "The server is full, try again later!",
+        "ro_RO": "Serverul este plin, încercați din nou mai târziu!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_not_owner_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "This name already registered.",
+        "ro_RO": "Acest nume este înregistrat."
+      }
+    },
+    {
+      "key": "authme_join_using",
+      "type": "text",
+      "languages": {
+        "en_GB": "You should join using username",
+        "ro_RO": "Ar trebui să vă intri folosind numele de utilizator"
+      }
+    },
+    {
+      "key": "authme_not",
+      "type": "text",
+      "languages": {
+        "en_GB": "not",
+        "ro_RO": "nu"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_quick_command",
+      "type": "text",
+      "languages": {
+        "en_GB": "You used a command too fast! Please, join the server again and wait more before using any command.",
+        "ro_RO": "Ai folosit o comandă prea repede! Vă rugăm să vă conectați din nou la server și să așteptați mai mult înainte de a utiliza orice comandă."
+      }
+    },
+    {
+      "key": "authme_email_add_email_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_usage_email_add",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_email_usage_email_change",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Vă rugăm să adăugați adresa de e-mail în contul dvs."
+      }
+    },
+    {
+      "key": "email_new_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid new email, try again!",
+        "ro_RO": "E-mail nou nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_old_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid old email, try again!",
+        "ro_RO": "E-mail vechi nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid email address, try again!",
+        "ro_RO": "Adresă de e-mail nevalidă, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_added",
+      "type": "text",
+      "languages": {
+        "en_GB": "Email address successfully added to your account!",
+        "ro_RO": "Adresa de e-mail a fost adăugată cu succes în contul dvs.!"
+      }
+    },
+    {
+      "key": "authme_email_add_not_allowed",
+      "type": "text",
+      "languages": {
+        "en_GB": "Adding email was not allowed.",
+        "ro_RO": "Adăugarea de e-mail nu a fost permisă."
+      }
+    },
+    {
+      "key": "authme_email_show",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your current email address is:",
+        "ro_RO": "Adresa dvs. actuală de e-mail este:"
+      }
+    },
+    {
+      "key": "authme_no_email_for_account",
+      "type": "text",
+      "languages": {
+        "en_GB": "You currently don\u0027t have email address associated with this account.",
+        "ro_RO": "În prezent, nu aveți o adresă de e-mail asociată acestui cont."
+      }
+    },
+    {
+      "key": "authme_already_used",
+      "type": "text",
+      "languages": {
+        "en_GB": "The email address is already being used",
+        "ro_RO": "Adresa de e-mail este deja folosită"
+      }
+    }
+  ]
+}
