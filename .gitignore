@@ -3,3 +3,15 @@
 /plugins/SuperLobby/libs
 plugins/Citizens/lib
 plugins/LuckPerms/lib
+plugins/LuckPerms/libs
+banned-ips.json
+banned-players.json
+commands.yml
+eula.txt
+help.yml
+ops.json
+paper.yml
+permissions.yml
+wepif.yml
+usercache.json
+whitelist.json
