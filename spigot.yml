@@ -55,12 +55,12 @@ commands:
   - testforblock
   - tellraw
 messages:
-  whitelist: '&c&lNoxl&f&lCraft &7» &7Server-ul este in mentenanta!'
-  unknown-command: '&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!'
-  server-full: '&c&lNoxl&f&lCraft &7» &7Server-ul este full'
-  outdated-client: '&c&lNoxl&f&lCraft &7» &7Te rog sa intri de pe &e1.8.x-1.20.x'
-  outdated-server: '&c&lNoxl&f&lCraft &7» &7Te rog sa intri de pe &e1.8.x-1.20.x'
-  restart: '&c&lNoxl&f&lCraft &7» &7Server-ul a primit un restart'
+  whitelist: '[lang]core_whitelist[/lang]'
+  unknown-command: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+  server-full: '[lang]core_the_server_is_full[/lang]'
+  outdated-client: '[lang]core_join_version[/lang]'
+  outdated-server: '[lang]core_join_version[/lang]'
+  restart: '[lang]core_restarting[/lang]'
 stats:
   disable-saving: false
   forced-stats: {}
