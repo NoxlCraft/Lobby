@@ -1,0 +1,12 @@
+location: world:-4.500:83.500:8.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '[lang]server_lobby_dh_parkour_line_1[args][arg]%ajpk_jumping%[/arg][/args][/lang]'
+  - content: '[lang]server_lobby_dh_parkour_line_2[/lang]'
+  actions: {}

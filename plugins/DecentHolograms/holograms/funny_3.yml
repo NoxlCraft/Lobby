@@ -1,0 +1,13 @@
+location: world:-1.500:84.000:-9.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&7Alexutzerion5 (&cFisherman&7)'
+  - content: '* hrrrrrrrr *'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,7 @@
+uuid: e86faf27-61ee-3125-bed7-0892b6d32e85
+name: madalina16
+primary-group: staff
+permissions:
+- '*'
+parents:
+- staff

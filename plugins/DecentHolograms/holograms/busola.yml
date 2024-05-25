@@ -1,0 +1,12 @@
+location: world:-11.527:83.3000:5.969
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '[lang]server_lobby_dh_busola_line_1[/lang]'
+    height: 0.3
+  actions: {}

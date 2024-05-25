@@ -1,78 +1,79 @@
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-# PLUGIN MESSAGES
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-
 Messages:
   GENERAL:
-    PREFIX: "&c&lNoxl&f&lCraft &7»"
-    NO_PERMISSION: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
-    CUSTOM_COMMAND_NO_PERMISSION: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
-    INVALID_PLAYER: "%prefix% &c%player% &7nu este online!"
-    CONFIG_RELOAD: "%prefix% &7Am reincarcat pluginul in &c%time%ms"
-    COOLDOWN_ACTIVE: "%prefix% &7Te rog sa astepti &c%time%s&7!"
-
+    PREFIX: '[lang]global_prefix[/lang]'
+    NO_PERMISSION: '[lang]core_command_not_exist[/lang]'
+    CUSTOM_COMMAND_NO_PERMISSION: '[lang]core_command_not_exist[/lang]'
+    INVALID_PLAYER: >-
+      [lang]deluxehub.Messages.GENERAL.INVALID_PLAYER[args][arg]%player%[/arg][/args][/lang]
+    CONFIG_RELOAD: >-
+      [lang]deluxehub.Messages.GENERAL.CONFIG_RELOAD[args][arg]%time%[/arg][/args][/lang]
+    COOLDOWN_ACTIVE: >-
+      [lang]deluxehub.Messages.GENERAL.COOLDOWN_ACTIVE[args][arg]%time%[/arg][/args][/lang]
   GAMEMODE:
-    GAMEMODE_CHANGE: "%prefix% &7Modul de joc a fost schimbat la &c%gamemode%"
-    GAMEMODE_CHANGE_OTHER: "%prefix% &7Ai schimbat modul de joc la &c%gamemode% &7pentru &c%player%"
-    GAMEMODE_INVALID: "%prefix% &c%gamemode% &7nu poate fi gasit"
-
+    GAMEMODE_CHANGE: >-
+      [lang]deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE[args][arg]%gamemode%[/arg][/args][/lang]
+    GAMEMODE_CHANGE_OTHER: >-
+      [lang]deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE_OTHER[args][arg]%gamemode%[/arg][arg]%player%[/arg][/args][/lang]
+    GAMEMODE_INVALID: >-
+      [lang]deluxehub.Messages.GAMEMODE.GAMEMODE_INVALID[args][arg]%gamemode%[/arg][/args][/lang]
   VANISH:
-    ENABLE: "%prefix% &7Acuma esti &cascuns"
-    DISABLE: "%prefix% &7Acuma nu mai esti &cascuns"
-
+    ENABLE: '[lang]deluxehub.Messages.VANISH.ENABLE[/lang]'
+    DISABLE: '[lang]deluxehub.Messages.VANISH.DISABLE[/lang]'
   FLIGHT:
-    ENABLE: "%prefix% &7Ai activat modul de &cfly"
-    DISABLE: "%prefix% &7Ai oprit modul de &cfly"
-    ENABLE_OTHER: "%prefix% &7Ai activat modul de &cfly&7 pentru &c%player%"
-    DISABLE_OTHER: "%prefix% &7Ai oprit modul de &cfly&7 pentru &c%player%"
+    ENABLE: '[lang]deluxehub.Messages.FLIGHT.ENABLE[/lang]'
+    DISABLE: '[lang]deluxehub.Messages.FLIGHT.DISABLE[/lang]'
+    ENABLE_OTHER: >-
+      [lang]deluxehub.Messages.FLIGHT.ENABLE_OTHER[args][arg]%player%[/arg][/args][/lang]
+    DISABLE_OTHER: >-
+      [lang]deluxehub.Messages.FLIGHT.DISABLE_OTHER[args][arg]%player%[/arg][/args][/lang]
 
   PLAYER_HIDER:
-    HIDDEN: "%prefix% &7Vizibilitatea jucatorilor este &copornita"
-    SHOWN: "%prefix% &7Vizibilitatea jucatorilor este &cpornita"
-
+    HIDDEN: '[lang]deluxehub.Messages.PLAYER_HIDER.HIDDEN[/lang]'
+    SHOWN: '[lang]deluxehub.Messages.PLAYER_HIDER.SHOWN[/lang]'
   LOBBY:
-    SET_LOBBY: "%prefix% &aYou have successfully set the lobby spawn point"
-
+    SET_LOBBY: '[lang]deluxehub.Messages.LOBBY.SET_LOBBY[/lang]'
   CHAT:
-    CLEARCHAT: "&7Chat-ul a fost sters"
-    CLEARCHAT_PLAYER: "&7Chat-ul a fost sters"
-
-    LOCKED: "%prefix% &cChat &7este blocat"
-    LOCKED_BROADCAST: "%prefix% &b%player% &chas locked global chat"
-    UNLOCKED_BROADCAST: "%prefix% &b%player% &ahas unlocked global chat"
-
-    ANTI_SWEAR_WORD_BLOCKED: "%prefix% &7Te rog sa nu injuri"
-    ANTI_SWEAR_ADMIN_NOTIFY: "%prefix% &c%player% &7a vurt sa zica: &c%word%"
-
-    COMMAND_BLOCKED: "%prefix% &7Manuta ca nu e voie"
-
+    CLEARCHAT: '[lang]deluxehub.Messages.CHAT.CLEARCHAT[/lang]'
+    CLEARCHAT_PLAYER: '[lang]deluxehub.Messages.CHAT.CLEARCHAT_PLAYER[/lang]'
+    LOCKED: '[lang]deluxehub.Messages.CHAT.LOCKED[/lang]'
+    LOCKED_BROADCAST: >-
+      [lang]deluxehub.Messages.CHAT.LOCKED_BROADCAST[args][arg]%player%[/arg][/args][/lang]
+    UNLOCKED_BROADCAST: >-
+      [lang]deluxehub.Messages.CHAT.UNLOCKED_BROADCAST[args][arg]%player%[/arg][/args][/lang]
+    ANTI_SWEAR_WORD_BLOCKED: '[lang]deluxehub.Messages.CHAT.ANTI_SWEAR_WORD_BLOCKED[/lang]'
+    ANTI_SWEAR_ADMIN_NOTIFY: >-
+      [lang]deluxehub.Messages.CHAT.ANTI_SWEAR_ADMIN_NOTIFY[args][arg]%player%[/arg][arg]%word%[/arg][/args][/lang]
+    COMMAND_BLOCKED: '[lang]deluxehub.Messages.CHAT.COMMAND_BLOCKED[/lang]'
   SCOREBOARD:
-    TOGGLE: "%prefix% &7Scoreboard-ul este acuma &c%value%"
-
+    TOGGLE: >-
+      [lang]deluxehub.Messages.SCOREBOARD.TOGGLE[args][arg]%value%[/arg][/args][/lang]
   DOUBLE_JUMP:
-    COOLDOWN_ACTIVE: "%prefix% &7Te rog sa astepti!"
-
+    COOLDOWN_ACTIVE: '[lang]deluxehub.Messages.DOUBLE_JUMP.COOLDOWN_ACTIVE[/lang]'
   WORLD_EVENT_MODIFICATIONS:
-    ITEM_DROP: "%prefix% &7Te rog sa nu."
-    ITEM_PICKUP: "%prefix% &7Nu ai voie sa iei iteme de pe jos."
-    BLOCK_PLACE: "%prefix% &7Te rog sa nu."
-    BLOCK_BREAK: "%prefix% &7Te rog sa nu."
-    BLOCK_INTERACT: "%prefix% &7Te rog sa nu."
-    PLAYER_PVP: "%prefix% &c&lAUCHHHHH! &7Nu mai da in mine!!"
-
+    ITEM_DROP: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_DROP[/lang]'
+    ITEM_PICKUP: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_PICKUP[/lang]'
+    BLOCK_PLACE: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_PLACE[/lang]'
+    BLOCK_BREAK: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_BREAK[/lang]'
+    BLOCK_INTERACT: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_INTERACT[/lang]'
+    PLAYER_PVP: '[lang]deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.PLAYER_PVP[/lang]'
   HOLOGRAMS:
-    EMPTY: "%prefix% &cCould not find any holograms."
-    ALREADY_EXISTS: "%prefix% &cThere is a hologram with this name already &7(%name%)&c."
-    INVALID_HOLOGRAM: "%prefix% &cThere is no hologram with this name &7(%name%)&c."
-    INVALID_LINE: "%prefix% &cCould not find hologram line."
-
-    SPAWNED: "%prefix% &7Created new hologram with name &b%name%&7."
-    DESPAWNED: "%prefix% &7Removed hologram with name &b%name%&7."
-    MOVED: "%prefix% &7Moved hologram &b%name%&7."
-
-    LINE_SET: "%prefix% &7Set line &b%line%&7."
-    ADDED_LINE: "%prefix% &7Added new line."
-    REMOVED_LINE: "%prefix% &7Removed line &b%line%&7."
-
+    EMPTY: '[lang]deluxehub.Messages.HOLOGRAMS.EMPTY[/lang]'
+    ALREADY_EXISTS: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.ALREADY_EXISTS[args][arg]%name%[/arg][/args][/lang]
+    INVALID_HOLOGRAM: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.INVALID_HOLOGRAM[args][arg]%name%[/arg][/args][/lang]
+    INVALID_LINE: '[lang]deluxehub.Messages.HOLOGRAMS.INVALID_LINE[/lang]'
+    SPAWNED: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.SPAWNED[args][arg]%name%[/arg][/args][/lang]
+    DESPAWNED: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.DESPAWNED[args][arg]%name%[/arg][/args][/lang]
+    MOVED: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.MOVED[args][arg]%name%[/arg][/args][/lang]
+    LINE_SET: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.LINE_SET[args][arg]%line%[/arg][/args][/lang]
+    ADDED_LINE: '[lang]deluxehub.Messages.HOLOGRAMS.ADDED_LINE[/lang]'
+    REMOVED_LINE: >-
+      [lang]deluxehub.Messages.HOLOGRAMS.REMOVED_LINE[args][arg]%line%[/arg][/args][/lang]
   ANTI_WORLD_DOWNLOADER:
-    ADMIN_NOTIFY: "%prefix% &7%player% &chas joined with the World Downloader Mod, their ability to use it has been restricted by our systems."
+    ADMIN_NOTIFY: >-
+      [lang]deluxehub.Messages.ANTI_WORLD_DOWNLOADER.ADMIN_NOTIFY[args][arg]%player%[/arg][/args][/lang]

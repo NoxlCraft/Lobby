@@ -53,6 +53,206 @@
       }
     },
     {
+      "key": "core_command_only_for_players",
+      "type": "text",
+      "languages": {
+        "en_GB": "This command is only for ingame players!",
+        "ro_RO": "Aceasta comanda este doar pentru jucatorii!"
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00268| \u0026fWelcome on \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP\u0026f ",
+        "ro_RO": "\u00268| \u0026fBine ai venit \u0026fpe \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP\u0026f "
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fWe\u0027re \u00266happy \u0026fto see you \u00266playing \u0026fon",
+        "ro_RO": "\u0026fNe \u00266bucuram \u0026fca te \u00266joci \u0026fpe"
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln3",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026f our \u00266section.",
+        "ro_RO": "\u00266sectiunea\u0026f noastra."
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln4",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fWe \u00266wish \u0026fyou a good time on our \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP",
+        "ro_RO": "\u0026fSi \u00266speram \u0026fsa te \u00266distrezi \u0026fpe \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lS\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u00268\u0026lt\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026la\u0026x\u0026C\u00269\u00269\u0026B\u00261\u0026D\u0026lr\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lt\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00263\u0026le\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lr \u0026x\u0026C\u00266\u00269\u0026B\u00262\u00269\u0026lM\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026li\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026E\u0026ln\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026le",
+        "ro_RO": "\u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lM\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u00268\u0026li\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026ln\u0026x\u0026C\u00269\u00269\u0026B\u00261\u0026D\u0026la \u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lI\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00263\u0026ln\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lc\u0026x\u0026C\u00266\u00269\u0026B\u00262\u00269\u0026le\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lp\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026E\u0026lu\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lt"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln2",
+      "type": "text",
+      "languages": {
+        "en_GB": "The mine will reset in \u00266%realmines_secondsleft_StarterMine% \u0026fsec.",
+        "ro_RO": "Se va reseta in \u00266%realmines_secondsleft_StarterMine% \u0026fsec."
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln3",
+      "type": "text",
+      "languages": {
+        "en_GB": "This mine is for \u00266starters",
+        "ro_RO": "Aceasta mina este pentru \u00266starters"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln4",
+      "type": "text",
+      "languages": {
+        "en_GB": "With the \u00266slime \u0026ftaken from this \u00266mine",
+        "ro_RO": "Cu \u00266slime-ul \u0026fluat din aceasta \u00266mina"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln5",
+      "type": "text",
+      "languages": {
+        "en_GB": "You can buy \u00266tokens \u0026ffrom the shopkeeper.",
+        "ro_RO": "Poti cumpara de la shopkeeper \u00266token-uri"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln1",
+      "type": "text",
+      "languages": {
+        "en_GB": "This \u00266shopkeeper \u0026fsells \u00266items",
+        "ro_RO": "Acest \u00266shopkeeper \u0026fvinde \u00266iteme"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln2",
+      "type": "text",
+      "languages": {
+        "en_GB": "That can help you in \u00266pvp",
+        "ro_RO": "Care te pot ajuta la \u00266pvp"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln3",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fyou can buy the \u00266items \u0026fusing \u00266tokens",
+        "ro_RO": "\u00266Itemele \u0026fle poti cumpara cu \u00266tokens"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267ᴏᴏᴏ \u0026bᴊᴜᴍᴘ \u00267ᴀɴᴅ \u0026cꜰɪɢʜᴛ! \u00267ᴏᴏᴏ",
+        "ro_RO": "\u00267ᴏᴏᴏ \u0026bsᴀʀɪ \u00267sɪ \u0026cʟᴜᴘᴛᴀ-ᴛᴇ! \u00267ᴏᴏᴏ"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fʙᴇꜰᴏʀᴇ ʏᴏᴜ ᴊᴜᴍᴘ, \u0026cᴅᴏɴ\u0027ᴛ ꜰᴏʀɢᴇᴛ\u00267! ",
+        "ro_RO": "\u0026fɪɴᴀɪɴᴛᴇ sᴀ sᴀʀɪ \u0026cɴᴜ ᴜɪᴛᴀ\u00267!"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln3",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fᴋᴇᴇᴘ ɪɴᴠᴇɴᴛᴏʀʏ ɪꜱ \u0026cᴏꜰꜰ\u00267!",
+        "ro_RO": "\u0026fᴋᴇᴇᴘ ɪɴᴠᴇɴᴛᴏʀʏ ᴇsᴛᴇ \u0026cᴅᴇᴢᴀᴄᴛɪᴠᴀᴛ\u00267!"
+      }
+    },
+    {
+      "key": "boxpvp_thefirstmine",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You got to the first mine! Start mining, to",
+        "ro_RO": "\u00267Ai ajuns la prima mina! Incepe sa minezi, pentru"
+      }
+    },
+    {
+      "key": "boxpvp_willresetin",
+      "type": "text",
+      "languages": {
+        "en_GB": "ᴡɪʟʟ ʀᴇꜱᴇᴛ ɪɴ",
+        "ro_RO": "sᴇ ᴠᴀ ʀᴇsᴇᴛᴀ ɪɴ"
+      }
+    },
+    {
+      "key": "boxpvp_remainingblocks",
+      "type": "text",
+      "languages": {
+        "en_GB": "ʀᴇᴍᴀɪɴɪɴɢ ʙʟᴏᴄᴋꜱ",
+        "ro_RO": "ʙʟᴏᴄᴜʀɪ ʀᴀᴍᴀsᴇ"
+      }
+    },
+    {
+      "key": "boxpvp_for",
+      "type": "text",
+      "languages": {
+        "en_GB": "for",
+        "ro_RO": "pentru"
+      }
+    },
+    {
+      "key": "boxpvp_mineholoitems",
+      "type": "text",
+      "languages": {
+        "en_GB": "ᴀʀᴍᴏʀꜱ, ꜱᴡᴏʀᴅꜱ, ᴘɪᴄᴋᴀxᴇꜱ, ᴄᴏɴꜱᴜᴍᴀʙʟᴇꜱ\u00267.",
+        "ro_RO": "ᴀʀᴍᴜʀɪ, sᴀʙɪɪ, ᴘɪᴄᴋᴀxᴇ-ᴜʀɪ, ᴄᴏɴsᴜᴍᴀʙɪʟᴇ\u00267."
+      }
+    },
+    {
+      "key": "boxpvp_mineholograms_ln2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Get blocks, which you can trade with",
+        "ro_RO": "\u00267A primi blockuri, pe care le poti da la schimb"
+      }
+    },
+    {
+      "key": "boxpvp_mineholograms_ln1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Start mining, to",
+        "ro_RO": "\u00267Incepe sa minezi, pentru"
+      }
+    },
+    {
+      "key": "boxpvp_realmines_minereset",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267ᴛʜᴇ ᴍɪɴᴇ \u00266%mine% \u00267ʜᴀꜱ ᴊᴜꜱᴛ ʀᴇꜱᴇᴛ",
+        "ro_RO": "\u00267ᴍɪɴᴀ \u00266%mine% \u00267ᴛᴏᴄᴍᴀɪ ᴀ ғᴏsᴛ ʀᴇsᴇᴛᴀᴛᴀ"
+      }
+    },
+    {
+      "key": "boxpvp_rightclick",
+      "type": "text",
+      "languages": {
+        "en_GB": "Right Click",
+        "ro_RO": "Click Dreapta"
+      }
+    },
+    {
       "key": "example.translation",
       "type": "text",
       "languages": {
@@ -98,6 +298,446 @@
       "languages": {
         "en_GB": "Or maybe not? (Hmmmm)",
         "ro_RO": "Sau poate nu? (Hmmmm)"
+      }
+    },
+    {
+      "key": "mcpanelx_console_complete",
+      "type": "text",
+      "languages": {
+        "en_GB": "The command has been executed in the server console!!",
+        "ro_RO": "Comanda a fost executata in consola server-ului!"
+      }
+    },
+    {
+      "key": "mcpanelx_core_AntiUserSteal",
+      "type": "text",
+      "languages": {
+        "en_GB": "Why are you trying to steal a user account?",
+        "ro_RO": "De ce încerci sa furi un cont?"
+      }
+    },
+    {
+      "key": "mcpanelx_KickMessage",
+      "type": "text",
+      "languages": {
+        "en_GB": "You were kicked from the server: ",
+        "ro_RO": "Ai fost dat afara de pe server: "
+      }
+    },
+    {
+      "key": "mcpanelx_alert",
+      "type": "text",
+      "languages": {
+        "en_GB": "Alert",
+        "ro_RO": "Anunt"
+      }
+    },
+    {
+      "key": "mcpanelx_blocked-command-message-admin",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267The player \u0026c%1 \u00267tried to execute a blocked command.",
+        "ro_RO": "\u00267Jucatorul \u0026c%1 \u00267foloeste comenzi de tip haxdex."
+      }
+    },
+    {
+      "key": "mcpanelx_console-use",
+      "type": "text",
+      "languages": {
+        "en_GB": "Use: \u0026c/console [Command]",
+        "ro_RO": "Foloeste: \u0026c/console [Comanda]"
+      }
+    },
+    {
+      "key": "mcpanelx_AntiSyntax",
+      "type": "text",
+      "languages": {
+        "en_GB": "Sorry, but you can\u0027t use direct plugin syntax on the server.",
+        "ro_RO": "Ne pare rau, dar nu puteti utiliza sintaxa pluginului direct pe server."
+      }
+    },
+    {
+      "key": "mcpanelx_KickFly",
+      "type": "text",
+      "languages": {
+        "en_GB": "[MythicalAC] You are not allowed to fly!",
+        "ro_RO": "[MythicalAC] Nu ai voie sa zbori!"
+      }
+    },
+    {
+      "key": "mcpanelx_ClearChat",
+      "type": "text",
+      "languages": {
+        "en_GB": "Chat has been cleared by %1!",
+        "ro_RO": "Chatul a fost sters de %1!"
+      }
+    },
+    {
+      "key": "mcpanelx_ChatLocked",
+      "type": "text",
+      "languages": {
+        "en_GB": "Chat has been %1 by %2!",
+        "ro_RO": "Chatul a fost %1 de %2!"
+      }
+    },
+    {
+      "key": "mcpanelx_chatislocked",
+      "type": "text",
+      "languages": {
+        "en_GB": "Chat has been locked by an administrator!",
+        "ro_RO": "Chatul a fost blocat de un administrator!"
+      }
+    },
+    {
+      "key": "mcpanelx_state_locked",
+      "type": "text",
+      "languages": {
+        "en_GB": "Locked",
+        "ro_RO": "Blocat"
+      }
+    },
+    {
+      "key": "mcpanelx_state_unlocked",
+      "type": "text",
+      "languages": {
+        "en_GB": "Unlocked",
+        "ro_RO": "Debelocat"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GENERAL.INVALID_PLAYER",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267 is not online!",
+        "ro_RO": "\u0026c%1 \u00267nu este online!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GENERAL.CONFIG_RELOAD",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267I reloaded the plugin in \u0026c%1ms",
+        "ro_RO": "\u00267Am reincarcat pluginul in \u0026c%1ms"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GENERAL.COOLDOWN_ACTIVE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please wait \u0026c%1s\u00267!",
+        "ro_RO": "\u00267Te rog sa astepti \u0026c%1s\u00267!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Game mode has been changed to \u0026c%1",
+        "ro_RO": "\u00267Modul de joc a fost schimbat la \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE_OTHER",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You changed the game mode to \u0026c%1 \u00267for \u0026c%2",
+        "ro_RO": "\u00267Ai schimbat modul de joc la \u0026c%1 \u00267pentru \u0026c%2"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_INVALID",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267 cannot be found",
+        "ro_RO": "\u0026c%1 \u00267nu poate fi gasit"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.VANISH.ENABLE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Now you are \u0026chidden",
+        "ro_RO": "\u00267Acuma esti \u0026cascuns"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.VANISH.DISABLE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267 Now you are no longer \u0026chidden\u00267.",
+        "ro_RO": "\u00267Acuma nu mai esti \u0026cascuns\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.ENABLE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have enabled \u0026cfly mode",
+        "ro_RO": "\u00267Ai activat modul de \u0026cfly"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.DISABLE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have stopped \u0026cfly mode",
+        "ro_RO": "\u00267Ai oprit modul de \u0026cfly"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.ENABLE_OTHER",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have enabled \u0026cfly\u00267 mode for \u0026c%1",
+        "ro_RO": "\u00267Ai activat modul de \u0026cfly\u00267 pentru \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.DISABLE_OTHER",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have stopped \u0026cfly\u00267 mode for \u0026c%1",
+        "ro_RO": "\u00267Ai oprit modul de \u0026cfly\u00267 pentru \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.PLAYER_HIDER.HIDDEN",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Player visibility is \u0026off",
+        "ro_RO": "\u00267Vizibilitatea jucatorilor este \u0026copornita"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.PLAYER_HIDER.SHOWN",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Player visibility is \u0026cturned on",
+        "ro_RO": "\u00267Vizibilitatea jucatorilor este \u0026cpornita"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.LOBBY.SET_LOBBY",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026aYou have successfully set the lobby spawn point",
+        "ro_RO": "\u0026aAți setat cu succes punctul de spawn!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.CLEARCHAT",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Chat has been purged.",
+        "ro_RO": "\u00267Chat-ul a fost sters."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.CLEARCHAT_PLAYER",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Chat-ul a fost purged.",
+        "ro_RO": "\u00267Chat-ul a fost sters."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.LOCKED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026cChat \u00267is locked!",
+        "ro_RO": "\u0026cChat \u00267este blocat!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.LOCKED_BROADCAST",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026b%1 \u0026chas locked global chat.",
+        "ro_RO": "\u0026b%1 \u0026chas a blocat chatul global."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.UNLOCKED_BROADCAST",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026b%1 \u0026ahas unlocked global chat.",
+        "ro_RO": "\u0026b%1 \u0026a a deblocat chatul global."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.ANTI_SWEAR_WORD_BLOCKED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267 Please don\u0027t swear.",
+        "ro_RO": "\u00267Te rog sa nu injuri."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.ANTI_SWEAR_ADMIN_NOTIFY",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267wanted to say: \u0026c%2",
+        "ro_RO": "\u0026c%1 \u00267A vrut sa zica: \u0026c%2"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.COMMAND_BLOCKED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Manuta ca nu e voie"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.SCOREBOARD.TOGGLE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Scoreboard is now \u0026c%1",
+        "ro_RO": "\u00267Scoreboard-ul este acuma \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.DOUBLE_JUMP.COOLDOWN_ACTIVE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please wait!",
+        "ro_RO": "\u00267Te rog sa astepti!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_DROP",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_PICKUP",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Nu ai voie sa iei iteme de pe jos."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_PLACE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_BREAK",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_INTERACT",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.PLAYER_PVP",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u0026c\u0026lAUCHHHHH! \u00267Nu mai da in mine!!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.EMPTY",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026cCould not find any holograms.",
+        "ro_RO": "\u0026cNu am putut gasi nicio holograma."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.ALREADY_EXISTS",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026cThere is a hologram with this name already \u00267(%1)\u0026c.",
+        "ro_RO": "\u00267Exista deja o holograma cu acest nume \u00267(\u0026c%1\u00267)."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.INVALID_HOLOGRAM",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267There is no hologram with this name \u00267(\u0026c%1\u00267).",
+        "ro_RO": "\u00267Nu exista nicio holograma cu acest nume \u00267(\u0026c%1\u00267)."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.INVALID_LINE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Could not find hologram line.",
+        "ro_RO": "\u00267Nu s-a putut gasi linia de holograma."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.SPAWNED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Created new hologram with name \u0026c%1\u00267.",
+        "ro_RO": "\u00267S-a creat o noua holograma cu numele \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.DESPAWNED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Removed hologram with name \u0026b%1\u00267.",
+        "ro_RO": "\u00267Holograma eliminata cu numele \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.MOVED",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Moved hologram \u0026c%1\u00267.",
+        "ro_RO": "\u00267Holograma mutata \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.LINE_SET",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Set line \u0026c%1\u00267.",
+        "ro_RO": "\u00267Setati linia \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.ADDED_LINE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Added new line.",
+        "ro_RO": "\u00267A fost adaugata o noua linie."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.REMOVED_LINE",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Removed line \u0026b%1\u00267.",
+        "ro_RO": "\u00267S-a eliminat rândul \u0026b%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.ANTI_WORLD_DOWNLOADER.ADMIN_NOTIFY",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267%1 \u0026chas joined with the World Downloader Mod, their ability to use it has been restricted by our systems.",
+        "ro_RO": "\u00267%1 \u0026ca intrat cu world-downlaoder dar a primit ban!"
       }
     },
     {
@@ -194,6 +834,118 @@
       "languages": {
         "en_GB": "\u00267",
         "ro_RO": "\u00267"
+      }
+    },
+    {
+      "key": "global_playermoney",
+      "type": "text",
+      "languages": {
+        "en_GB": "Money",
+        "ro_RO": "Bani"
+      }
+    },
+    {
+      "key": "global_playerminedblocks",
+      "type": "text",
+      "languages": {
+        "en_GB": "Mined Blocks",
+        "ro_RO": "Blocuri Minate"
+      }
+    },
+    {
+      "key": "global_playerkills",
+      "type": "text",
+      "languages": {
+        "en_GB": "Kills",
+        "ro_RO": "Ucideri"
+      }
+    },
+    {
+      "key": "global_playerdeaths",
+      "type": "text",
+      "languages": {
+        "en_GB": "Deaths",
+        "ro_RO": "Decese"
+      }
+    },
+    {
+      "key": "global_playerteam",
+      "type": "text",
+      "languages": {
+        "en_GB": "Team",
+        "ro_RO": "Echipa"
+      }
+    },
+    {
+      "key": "global_playerplaytime",
+      "type": "text",
+      "languages": {
+        "en_GB": "Playtime",
+        "ro_RO": "Timp Jucat"
+      }
+    },
+    {
+      "key": "server_lobby_dh_ajp_top10_line_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "TOP \u0026c\u0026l10 \u0026fPARKOUR!",
+        "ro_RO": "TOP \u0026c\u0026l10 \u0026fPARKOUR!"
+      }
+    },
+    {
+      "key": "server_lobby_dh_ajp_top10_line_3",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fTry and beat the best of the best!",
+        "ro_RO": "\u0026fIncerca sa fu cel mai bun pe server!"
+      }
+    },
+    {
+      "key": "server_lobby_dh_ajp_top10_line_2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026fYour score: \u0026c%1",
+        "ro_RO": "\u0026fScor-ul tau: \u0026c%1"
+      }
+    },
+    {
+      "key": "server_lobby_dh_parkour_line_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264\u0026lParkour \u00267(\u0026c%1\u00267)",
+        "ro_RO": "\u00264\u0026lParkour \u00267(\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "server_lobby_dh_parkour_line_2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026f(( CLICK TO PLAY))",
+        "ro_RO": "\u0026f(( CLICK PENTRU A JUCA  ))"
+      }
+    },
+    {
+      "key": "server_lobby_dh_busola_line_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Server Selector",
+        "ro_RO": "\u00267Selector de sever"
+      }
+    },
+    {
+      "key": "server_lobby_dh_lang_line_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264\u0026lLanguage \u00267(\u0026cen_GB\u00267)",
+        "ro_RO": "\u00264\u0026lLimba \u00267(\u0026cro_RO\u00267)"
+      }
+    },
+    {
+      "key": "server_lobby_dh_lang_line_2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026f(( CLICK TO CHANGE ))",
+        "ro_RO": "\u0026f(( CLICK PENTRU A SCHIMBA ))"
       }
     },
     {
@@ -754,6 +1506,965 @@
       "languages": {
         "en_GB": "\u0026c%1\u00267 has been kicked from the server.",
         "ro_RO": "\u0026c%1\u00267 a fost exclus de pe server."
+      }
+    },
+    {
+      "key": "ajpparkour.alreadyin",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You are already in parkour!",
+        "ro_RO": "\u00267Esti deja in parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.score",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Started parkour! Try to beat your high-score of \u0026c%1\u00267!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour! incearca sa iti depasesti scorul maxim de \u0026c%1\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.first",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Started parkour!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.no-area-player",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267No arena or player could be found called \u0026c%1\u00267!",
+        "ro_RO": "\u00267Nu s-a putut gasi o arena sau un jucator cu numele \u0026c%1\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.unknown-player",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Cannot find that player!",
+        "ro_RO": "\u00267Nu s-a putut gasi acel jucator!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.unknown-area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Cannot find that area!",
+        "ro_RO": "\u00267Nu s-a putut gasi acea zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.started-other",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Started parkour for \u0026c%1\u00267!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour pentru \u0026c%1\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.started-other-area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Started parkour for \u0026c%1\u00267 on area \u0026c%2\u00267!",
+        "ro_RO": "\u00267L-ai forat pe \u0026c%1\u00267 sa faca parkour in zona \u0026c%2\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.noperm",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You do not have permission to do that!",
+        "ro_RO": "\u00267Nu ai permisiunea sa faci asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.score",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Score \u0026c%1\u00267.",
+        "ro_RO": "\u00267Scor \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "ajpparkour.beatrecord",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264\u0026lCongrats!\u00267 You beat your previous score of \u0026c%1\u00267!",
+        "ro_RO": "\u00264\u0026lFelicitari!\u00267 Ai depasit scorul tau anterior de \u0026c%1\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.beatrecord-ingame",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264\u0026lCongrats! \u00267You just beat your previous highscore! Keep going!",
+        "ro_RO": "\u00264\u0026lFelicitari! \u00267Ai depasit scorul tau maxim anterior! Continua in acelasi ritm!"
+      }
+    },
+    {
+      "key": "ajpparkour.disabledworld",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You cannot start parkour from this world!",
+        "ro_RO": "\u00267Nu poti incepe parcursul de parkour din aceasta lume!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.potion",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.place",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.break",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.numberformatexception",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267That is not a valid number!",
+        "ro_RO": "\u00267Aceasta nu este o valoare numerica valida!"
+      }
+    },
+    {
+      "key": "ajpparkour.areafull",
+      "type": "text",
+      "languages": {
+        "en_GB": "C\u00267ould not start parkour because the area is full! Try again later.",
+        "ro_RO": "N\u00267u s-a putut incepe parcursul de parkour deoarece zona este plina! incearca din nou mai tarziu."
+      }
+    },
+    {
+      "key": "ajpparkour.must-be-ingame",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You must be in-game to do that!",
+        "ro_RO": "\u00267Trebuie sa fii in joc pentru a face asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.not-in-game",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You must do this command from the console!",
+        "ro_RO": "\u00267Trebuie sa folosesti aceasta comanda din consola!"
+      }
+    },
+    {
+      "key": "ajpparkour.couldnt-find-player",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Could not find player \u0026c%1",
+        "ro_RO": "\u00267Nu s-a putut gasi jucatorul \u0026c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.list.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Players playing parkour:",
+        "ro_RO": "\u00267Jucatori care joaca parcursul de parkour:"
+      }
+    },
+    {
+      "key": "ajpparkour.list.format",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264%1 \u00267- \u0026c%2 jumps",
+        "ro_RO": "\u00264%1 \u00267- \u0026c%2 sarituri"
+      }
+    },
+    {
+      "key": "ajpparkour.list.none",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267None",
+        "ro_RO": "\u00267Niciunul"
+      }
+    },
+    {
+      "key": "ajpparkour.nobodys-played-yet",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Nobody has played parkour yet!",
+        "ro_RO": "\u00267Nimeni nu a jucat parcursul de parkour inca!"
+      }
+    },
+    {
+      "key": "ajpparkour.first-position",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267First position set!",
+        "ro_RO": "\u00267Prima pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.second-position",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Second position set!",
+        "ro_RO": "\u00267A doua pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup-done",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You can now do \u0026c/ajParjour start \u00267to do parkour!",
+        "ro_RO": "\u00267Acum poti folosi \u0026c/ajParjour start\u00267 pentru a incepe parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.reload.usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/%1 reload \u003cfile\u003e \u00267Files: \u0026c%2",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 reload \u003cfisier\u003e \u00267Fisiere: \u0026c%2"
+      }
+    },
+    {
+      "key": "ajpparkour.fallpos.set",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Fall position set!",
+        "ro_RO": "\u00267Pozitia de cadere setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.fallpos.removed",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Fall position removed!",
+        "ro_RO": "\u00267Pozitia de cadere eliminata!"
+      }
+    },
+    {
+      "key": "ajpparkour.top.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Top Scores:",
+        "ro_RO": "\u00267Cele mai bune scoruri:"
+      }
+    },
+    {
+      "key": "ajpparkour.top.header-area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Top Scores for \u0026c%1:",
+        "ro_RO": "\u00267Cele mai bune scoruri pentru \u0026c%1:"
+      }
+    },
+    {
+      "key": "ajpparkour.top.format",
+      "type": "text",
+      "languages": {
+        "en_GB": "{#}. \u00264%1 \u0026c%2 \u00267jumps",
+        "ro_RO": "{#}. \u00264%1 \u0026c%2 \u00267sarituri"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.normal",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You fell! Your score was \u0026c%1",
+        "ro_RO": "\u00267Ai cazut! Scorul tau a fost \u0026c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.base",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Your parkour game was ended because ",
+        "ro_RO": "\u00267Jocul tau de parkour s-a incheiat deoarece "
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.reasons.teleport",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You teleported",
+        "ro_RO": "\u00267Te-ai teleportat"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.reasons.afk",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You were AFK",
+        "ro_RO": "\u00267Ai fost AFK"
+      }
+    },
+    {
+      "key": "ajpparkour.errors.notsetup.admin",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267For info on how to set it up, do \u0026c/%1 setup",
+        "ro_RO": "\u00267Pentru informatii despre cum sa-l setezi, foloseste \u0026c/%1 setup"
+      }
+    },
+    {
+      "key": "ajpparkour.errors.too-many-players",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267There are too many players in parkour right now. Try again later.",
+        "ro_RO": "\u00267Sunt prea multi jucatori in parcursul de parkour acum. incearca din nou mai tarziu."
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.more-args",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please provide the source to migrate from!",
+        "ro_RO": "\u00267Te rog ofera sursa de la care sa migrezi!"
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "Migrated %1 scores!"
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.error",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Something went wrong. There is probably more information in the console.",
+        "ro_RO": "\u00267Ceva nu a mers bine. Probabil exista mai multe informatii in consola."
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.stats.no-data",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267---",
+        "ro_RO": "\u00267---"
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.stats.time-format",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1m\u00267:\u00264%2s",
+        "ro_RO": "\u0026c%1m\u00267:\u00264%2s"
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.current.no-data",
+      "type": "text",
+      "languages": {
+        "en_GB": "0",
+        "ro_RO": "0"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267ajParkour made by \u0026cajgeiss0702\u00267 and translated by \u0026cNaysKutzu\u00267!",
+        "ro_RO": "\u00267ajParkour facut de \u0026cajgeiss0702\u00267 si tradus de \u0026cNaysKutzu\u00267!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.start",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 start \u00267- Start parkour!",
+        "ro_RO": " \u0026c/%1 start \u00267- incepe parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.startarea",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 start \u003carea\u003e \u00267- Start parkour in a certain area.",
+        "ro_RO": " \u0026c/%1 start \u003czona\u003e \u00267- incepe parcursul de parkour intr-o anumita zona."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.startothers",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 start \u003cplayer\u003e [area] \u00267- Start another players parkour in a certain area.",
+        "ro_RO": " \u0026c/%1 start \u003cjucator\u003e [zona] \u00267- incepe parcursul de parkour al altui jucator intr-o anumita zona."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.top",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 top \u00267- See the top 10 players!",
+        "ro_RO": " \u0026c/%1 top \u00267- Vezi primii 10 jucatori!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.list",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 list \u00267- See everyone that is playing parkour, and their current scores.",
+        "ro_RO": " \u0026c/%1 list \u00267- Vezi toti cei care joaca parcursul de parkour, si scorurile lor actuale."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.setup",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup \u00267- Commands for setting up the plugin. (required permssion: \u0026cajparkour.setup\u00267)",
+        "ro_RO": " \u0026c/%1 setup \u00267- Comenzi pentru setarea pluginului. (permisiune necesara: \u0026cajparkour.setup\u00267)"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.portals",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 portals \u00267- Commands for setting up portals.",
+        "ro_RO": " \u0026c/%1 portals \u00267- Comenzi pentru setarea portalurilor."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.areas",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 areas \u00267- List all loaded areas",
+        "ro_RO": " \u0026c/%1 areas \u00267- Listeaza toate zonele incarcate"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267ajParkour setup commands",
+        "ro_RO": "\u00267ajParkour comenzi de setare"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.create",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup create \u00267- Create an area",
+        "ro_RO": " \u0026c/%1 setup create \u00267- Creeaza o zona"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.pos1",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup pos1 \u00267- Set the first position",
+        "ro_RO": " \u0026c/%1 setup pos1 \u00267- Seteaza prima pozitie"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.pos2",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup pos2 \u00267- Set the second position",
+        "ro_RO": " \u0026c/%1 setup pos2 \u00267- Seteaza a doua pozitie"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.we",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup we \u00267- Select first and second position with worldedit",
+        "ro_RO": " \u0026c/%1 setup we \u00267- Selecteaza prima si a doua pozitie cu worldedit"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.fallpos",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup fallpos \u00267- Set fall position!",
+        "ro_RO": " \u0026c/%1 setup fallpos \u00267- Seteaza pozitia de cadere!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.edit",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 edit\u00267 - Load an existing area into the editing queue.",
+        "ro_RO": " \u0026c/%1 edit\u00267 - incarca o zona existenta in coada de editare."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.info",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup info\u00267 - Show which points you have set so far!",
+        "ro_RO": " \u0026c/%1 setup info\u00267 - Arata ce puncte ai setat pana acum!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.diff",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup difficulty \u00267- Set the areas difficulty!",
+        "ro_RO": " \u0026c/%1 setup difficulty \u00267- Seteaza dificultatea zonei!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.max",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup max \u00267- Set the maximum number of people allowed in the area!",
+        "ro_RO": " \u0026c/%1 setup max \u00267- Seteaza numarul maxim de persoane permise in zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.save",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 setup save \u00267- Saves and enabled the area. (This should be done last)",
+        "ro_RO": " \u0026c/%1 setup save \u00267- Salveaza si activeaza zona. (Asta ar trebui sa fie facut ultimul)"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "Parkour portal commands",
+        "ro_RO": "Parkour comenzi de portal"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.list",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 portals list \u00267- Lists all portals.",
+        "ro_RO": " \u0026c/%1 portals list \u00267- Listeaza toate portalurile."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.create",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 portals create \u00267- Create a portal.",
+        "ro_RO": " \u0026c/%1 portals create \u00267- Creeaza un portal."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.remove",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u0026c/%1 portals remove - \u00267Remove a portal.",
+        "ro_RO": " \u0026c/%1 portals remove - \u00267Elimina un portal."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Loaded parkour areas:",
+        "ro_RO": "\u00267Zone de parcurs incarcate:"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.format",
+      "type": "text",
+      "languages": {
+        "en_GB": " \u00267- \u0026c%1\u00267 Difficulty: \u0026c%2",
+        "ro_RO": " \u00267- \u0026c%1\u00267 Dificultate: \u0026c%2"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.none",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267No areas loaded!",
+        "ro_RO": "\u00267Nicio zona incarcata!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.not-on-whitelist",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You cannot use this command while on parkour!",
+        "ro_RO": "\u00267Nu poti folosi aceasta comanda cand esti in parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.not-from-console",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You cannot run this command from the console!",
+        "ro_RO": "\u00267Nu poti folosi aceasta comanda din consola!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.no-name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You must name your area!",
+        "ro_RO": "\u00267Trebuie sa iti numesti zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.invalid-name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You are not allowed to name your arena like that.",
+        "ro_RO": "\u00267Nu poti numi arena asa."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.no-name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please enter the name of an area to edit!",
+        "ro_RO": "\u00267Te rog introdu numele unei zone de editat!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.loaded",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Area loaded for editing! Re-set positions using \u0026c/%1 setup",
+        "ro_RO": "\u00267Zona incarcata pentru editare! Reseteaza pozitiile folosind \u0026c/%1 setup"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.no-area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267An area with that name does not exist!",
+        "ro_RO": "\u00267O zona cu acel nume nu exista!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.need-to-create",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You must create an area before editing it!",
+        "ro_RO": "\u00267Trebuie sa creezi o zona inainte de a o edita!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.we.not-installed",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You need to have WorldEdit installed to use this command! Try using the built-in pos1 and pos2 setup commands.",
+        "ro_RO": "\u00267Trebuie sa ai WorldEdit instalat pentru a folosi aceasta comanda! incearca sa folosesti comenzile incorporate pos1 si pos2."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.we.incomplete-selection",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You must make a complete worldedit selection before doing this!",
+        "ro_RO": "\u00267Trebuie sa faci o selectie completa a WorldEdit inainte de a face asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.created",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Area created and added to the editing queue. See \u0026c/ajParkour setup\u00267 or view the plugin page for steps to set it up!",
+        "ro_RO": "\u00267Zona creata si adaugata in coada de editare. Vezi \u0026c/ajParkour setup\u00267 sau viziteaza pagina pluginului pentru pasii de setare!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.already-creating",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267An arena is currently being set up. Please either save that arena, or run this command again to override. (\u0026cNOTE: Overriding will erase all of the data of the arena being set up before!\u00267)",
+        "ro_RO": "\u00267O arena este setata in prezent. Te rog fie salveaza acea arena, fie ruleaza aceasta comanda din nou pentru a o suprascrie. (\u0026cNOTA: Suprascrierea va sterge toate datele arenei care este setata inainte!\u00267)"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.info.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Colors: Set Not set (optional) Not set (required)",
+        "ro_RO": "\u00267Culori: Setat Nesetata (optional) Nesetata (necesar)"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.pos1",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267First position set!",
+        "ro_RO": "\u00267Prima pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.pos2",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Second position set!",
+        "ro_RO": "\u00267A doua pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.fallpos",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Fall position set!",
+        "ro_RO": "\u00267Pozitia de cadere setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.we",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Positions set!",
+        "ro_RO": "\u00267Pozitii setate!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.diff",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Difficulty set!",
+        "ro_RO": "\u00267Dificultate setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.max",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Max players set!",
+        "ro_RO": "\u00267Numar maxim de jucatori setat!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.max.need-args",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please enter a number!",
+        "ro_RO": "\u00267Te rog introdu un numar!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.diff.not-valid",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Invalid difficulty! Valid difficulties are \u0026ceasy\u00267, \u0026cmedium\u00267, \u0026chard\u00267, \u0026cexpert\u00267, and \u0026cbalanced\u00267.",
+        "ro_RO": "\u00267Dificultate invalida! Dificultatile valide sunt \u0026ceasy\u00267, \u0026cmedium\u00267, \u0026chard\u00267, \u0026cexpert\u00267, si \u0026cbalanced\u00267."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.diff.need-args",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please enter a difficulty! Valid difficulties are easy, medium, hard, expert, and balanced.\nBalanced difficulty will make the parkour get harder as the player gets higher scores.",
+        "ro_RO": "\u00267Te rog introdu o dificultate! Dificultatile valide sunt easy, medium, hard, expert, si balanced.\nDificultatea echilibrata va face parcursul sa devina mai dificil pe masura ce jucatorul obtine scoruri mai mari."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.save.not-done",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267You have not set all of the required settings! Check \u0026c/%1 setup info\u00267 to see what you have left.",
+        "ro_RO": "\u00267Nu ai setat toate setarile necesare! Verifica \u0026c/%1 setup info\u00267 pentru a vedea ce ti-a ramas."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.save.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Arena \u0026c%1\u00267 saved and loaded!",
+        "ro_RO": "\u00267Arena \u0026c%1\u00267 salvata si incarcata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.area.too-small",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267The area you just created does not meet the minimum reccomended size of \u0026c20x20x20!\u00267\nYou can continue creating the area, but know you may run into issues with players running into each other, and possibly parkour going outside the area!\nYour area: \u0026c%1x%2x%3\u00267 (\u0026cXxZxY\u00267)",
+        "ro_RO": "\u00267Zona pe care tocmai ai creat-o nu indeplineste dimensiunea minima recomandata de \u0026c20x20x20!\u00267\nPoti continua crearea zonei, dar stii ca ai putea intampina probleme cu jucatorii care se lovesc unul de altul, si posibil parcursul sa iasa din zona!\nZona ta: \u0026c%1x%2x%3\u00267 (\u0026cXxZxY\u00267)"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.header",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Parkour Portals",
+        "ro_RO": "\u00267Portaluri de parkour"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.format.area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264%1 - \u0026c%2 - \u00267%3",
+        "ro_RO": "\u00264%1 - \u0026c%2 - \u00267%3"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.format.no-area",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c%1 - \u00267%2",
+        "ro_RO": "\u0026c%1 - \u00267%2"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.create.help",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/%1 portals create \u003cname\u003e [area]",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 portals create \u003cnume\u003e [zona]"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.create.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Created a portal named \u0026c%1\u00267 at your current location! You might have to restart the server for the portal to start working.",
+        "ro_RO": "\u00267Creat un portal numit \u0026c%1\u00267 la locatia ta curenta! S-ar putea sa trebuiasca sa repornesti serverul pentru ca portalul sa inceapa sa functioneze."
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.help",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please enter the name of the portal to be removed!",
+        "ro_RO": "\u00267Te rog introdu numele portalului de eliminat!"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.cannot-find",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Cannot find a portal with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "\u00267Nu s-a putut gasi un portal cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267\u00267Removed portal \u0026c\u0026c%1\u00267\u00267!",
+        "ro_RO": "\u00267\u00267Portalul \u0026c\u0026c%1\u00267\u00267 a fost eliminata!"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.no-portals",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267No portals have been set up yet! Please create portals before removing them.",
+        "ro_RO": "\u00267Nu s-au setat portaluri inca! Te rog creeaza portaluri inainte de a le elimina."
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Block Selector",
+        "ro_RO": "\u00267Selector de Blocuri"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.random.title",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Random Blocks",
+        "ro_RO": "\u00267Blocuri Aleatoare"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.random.lore",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Will pick a random block.",
+        "ro_RO": "\u00267Va alege un bloc aleator."
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.selected.lore",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Currently Selected",
+        "ro_RO": "\u00267in prezent Selectat"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.nextpage.name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026cNext Page",
+        "ro_RO": "\u0026cPagina Urmatoare"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.prevpage.name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026cPrevious Page",
+        "ro_RO": "\u0026cPagina Anterioara"
+      }
+    },
+    {
+      "key": "ajpparkour.items.blockselector.name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00264Block Selector",
+        "ro_RO": "\u00264Selector de Blocuri"
+      }
+    },
+    {
+      "key": "ajpparkour.reset.usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/%1 reset \u003cplayer\u003e",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 reset \u003cjucator\u003e"
+      }
+    },
+    {
+      "key": "ajpparkour.reset.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Reset score of \u0026c%1 \u00267to \u0026c0",
+        "ro_RO": "\u00267Resetare scorului lui \u0026c%1 \u00267la \u0026c0"
+      }
+    },
+    {
+      "key": "ajpparkour.blockselector.openedfor",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Opened block selector for \u0026c%1",
+        "ro_RO": "\u00267Deschis selectorul de blocuri pentru \u0026c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.help",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Please enter the name of the area to be removed!",
+        "ro_RO": "\u00267Te rog introdu numele zonei de eliminat!"
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.cannot-find",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Cannot find an area with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "\u00267Nu s-a putut gasi o zona cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.success",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u00267Removed area %1!",
+        "ro_RO": "\u00267Zona %1 a fost eliminata!"
       }
     },
     {

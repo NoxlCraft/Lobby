@@ -1,0 +1,55 @@
+# 
+# Should we let users form the ConsolePlayers use their console?
+Panel:
+  server_name: Lobby
+  console_name: System
+  port: 25184
+  java_api_key: ZwuDqqpEdhpo.HQnWEFj!!rgUo9!*Y.s
+  log_to_console: false
+ConsolePlayers:
+- NaysKutzu
+LockedConsoleCommands:
+- plugman
+- stop
+- restart
+Messages:
+  Prefix: '[lang]global_prefix[/lang]'
+  NoPermission: "[lang]core_command_not_exist[/lang]"
+  OnlyForPlayers: "[lang]core_command_only_for_players[/lang]"
+  ConsoleSyntax: '[lang]mcpanelx_console-use[/lang]'
+  LockedCommand: "[lang]core_command_not_exist[/lang]"
+  Complete: "[lang]mcpanelx_console_complete[/lang]"
+  # %player% has joined the server!
+  # %player% has left the server!
+  JoinMessage: '' 
+  LeaveMessage: ''
+  AntiUserSteal: "[lang]mcpanelx_core_AntiUserSteal[/lang]"
+  AntiSyntax: "[lang]mcpanelx_AntiSyntax[/lang]"
+  KickFly: '[lang]mcpanelx_KickFly[/lang]'
+  # %mcpanelx_user%
+  ClearChat: "[lang]mcpanelx_ClearChat[args][arg]%mcpanelx_user%[/arg][/args][/lang]"
+  DeathMessage: ''
+  ChatLocked: "[lang]mcpanelx_ChatLocked[args][arg]%mcpanelx_status%[/arg][arg]%mcpanelx_user%[/arg][/args][/lang]"
+  ChatLockedPlayer: "[lang]mcpanelx_chatislocked[/lang]"
+  ChatLockedStatusLocked: "[lang]mcpanelx_state_locked[/lang]"
+  ChatLockedStatusUnLocked: "[lang]mcpanelx_state_unlocked[/lang]"
+AntiCheat:
+  AntiFly: true
+InGameConsole:
+  enabled: true
+AntiSyntax:
+  enabled: true
+CustomMessages:
+  enabled: true
+CommandBlocker:
+  enabled: true
+Database:
+  enabled: true
+  host: 212.87.213.115
+  port: 3306
+  username: u91_Si4f1t6fz7
+  password: '!gpCm=@QiQ@HrWz+KUPmhguf'
+  database: s91_mcpanelx
+ChatFormater:
+  enabled: true
+  chat-format: '{prefix}{name}&r: {message}'

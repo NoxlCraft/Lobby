@@ -4,6 +4,7 @@
 plugins/Citizens/lib
 plugins/LuckPerms/lib
 plugins/LuckPerms/libs
+plugins/McPanelX-AuthMe/mcpanelx.log
 banned-ips.json
 banned-players.json
 commands.yml
@@ -15,3 +16,4 @@ permissions.yml
 wepif.yml
 usercache.json
 whitelist.json
+plugins/ajParkour/inventories/*.yml

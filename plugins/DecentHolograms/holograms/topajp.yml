@@ -1,0 +1,40 @@
+location: world:-26.500:87.000:-19.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '[lang]server_lobby_dh_ajp_top10_line_1[/lang]'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&4&l1. &f%ajpk_stats_top_name_1% (&c&l%ajpk_stats_top_score_1%&f)'
+    height: 0.3
+  - content: '&4&l2. &f%ajpk_stats_top_name_2% (&c&l%ajpk_stats_top_score_2%&f)'
+    height: 0.3
+  - content: '&4&l3. &f%ajpk_stats_top_name_3% (&c&l%ajpk_stats_top_score_3%&f)'
+    height: 0.3
+  - content: '&4&l4. &f%ajpk_stats_top_name_4% (&c&l%ajpk_stats_top_score_4%&f)'
+    height: 0.3
+  - content: '&4&l5. &f%ajpk_stats_top_name_5% (&c&l%ajpk_stats_top_score_5%&f)'
+    height: 0.3
+  - content: '&4&l6. &f%ajpk_stats_top_name_6% (&c&l%ajpk_stats_top_score_6%&f)'
+    height: 0.3
+  - content: '&4&lf. &f%ajpk_stats_top_name_7% (&c&l%ajpk_stats_top_score_7%&f)'
+    height: 0.3
+  - content: '&4&l8. &f%ajpk_stats_top_name_8% (&c&l%ajpk_stats_top_score_8%&f)'
+    height: 0.3
+  - content: '&4&l9. &f%ajpk_stats_top_name_9% (&c&l%ajpk_stats_top_score_9%&f)'
+    height: 0.3
+  - content: '&4&l10. &f%ajpk_stats_top_name_10% (&c&l%ajpk_stats_top_score_10%&f)'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '[lang]server_lobby_dh_ajp_top10_line_2[args][arg]%ajpk_stats_highscore%[/arg][/args][/lang]'
+    height: 0.3
+  - content: '[lang]server_lobby_dh_ajp_top10_line_3[/lang]'
+    height: 0.3
+  actions: {}

@@ -1,2 +1,9 @@
 #  This is where the plugin stores all the areas and portals.
 #  Be careful when editing this file, it could cause some areas or portals to fail to load!
+areas:
+  spawn:
+    difficulty: EASY
+    max: 100
+    pos1: world,-54,127,-67,-48.897644,42.899776
+    pos2: world,118,103,107,-229.10089,3.3924034
+    fallpos: world,-24,82,-13,-270.9028,10.191065

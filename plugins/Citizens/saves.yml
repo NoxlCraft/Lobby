@@ -17,3 +17,291 @@
 
 
 
+
+
+last-created-npc-id: 4
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid: fdc0fc16-45c1-4432-ae1a-f9e201dd7aeb
+      cached-skin-uuid-name: polar
+    name: '&r'
+    uuid: 43c36bb8-147a-4c81-8a5b-198e1897c6c1
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: ajp start
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      spawned: true
+      owner:
+        uuid: 80e36f60-632d-3cb8-aa9e-8dfbd68f2aaf
+      mounttrait: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: FDv1KbIe3L2PRzd0BpmmGFvkuPn5BvCVpomyfHBiDRdQi6UlkoaYt5Gf0YcDhzPyPPbWpd6JU0Mucmrj0XwieKUwNEk3cXdK/ZareSEusTUxf5sqFdzFpq1TjM5UXqgUtvflcj5l9b20FHICsVxJTzyLjdrQG8mPlW7zNysxn9GMgaMotVKrfNaK5pwoePjgBON5QHiOL8FVOg1aABKtBDKsqzo3tKuhKC2Xfi8pLZnrYouRVRHeLCW+8c0bbsFOtr2UbTLAOPYQ8b8+FPxKACiWo1f+5ov6xLhlNEmCaIJLYXXS28Xj+0CyppS5xVQJfMhHWkIMYSZV/yFrIOdQk3MhXcOjqgwSEe7omf+wabXvSESgPhMlJzqT30Fr0bJxxYoGhv5PGE3YZZ5lfueWkynlKmL1kFeaftYUNCbX+ED+SFfS8QQmFDJOzviqjfTz5T7H+/IkVWPVqAsSC9SoqsoZ+cN2qWGs5TOfl1i9MiXHEAbBTbNptoeovaO8TUqR41vUbd29aKDa1ivvyuzFRRPrP/zaHLqLrw5Wy3bS3k0iQlGEob9rL9r3toSpxKdJs4aPSQ2iW0tdWrDH3OssI7vSO9ptuOaTAeIhWroxiif7QLYFuBkAiVWXoWYowvkhAyb092KoZ2aqlblEt8fD/ib0TGDUbHhKNNuders6esU=
+        skinName: polar
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNTc1NzkwNjA1MywKICAicHJvZmlsZUlkIiA6ICJmZGMwZmMxNjQ1YzE0NDMyYWUxYWY5ZTIwMWRkN2FlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2xhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzQ4NmEwMDJhZWZjNmMwZWQ1MzlkMTVmYzAwNDVjYjg0OWVjOTM5Yzk1ZTJiODA0OTQ3OTgyYjU5YWZjMjMxIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      inventory: {}
+      location:
+        bodyYaw: -65.802475
+        world: world
+        x: '-26.5'
+        y: '82.0'
+        z: '-12.5'
+        yaw: '-65.8025'
+        pitch: '-5.8532'
+      scoreboardtrait: {}
+      rotationtrait:
+        globalParameters: {}
+      type: PLAYER
+    traitnames: owner,lookclose,commandtrait,mounttrait,skintrait,scoreboardtrait,type,inventory,rotationtrait,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '3':
+    metadata:
+      cached-skin-uuid: eb30cf35-f391-4349-b8d8-7271f7d7f499
+      cached-skin-uuid-name: alexutzerion5
+    name: '&r'
+    uuid: 1d52a497-ce01-4baa-a578-55bba18bfc29
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: lang
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      spawned: true
+      owner:
+        uuid: 80e36f60-632d-3cb8-aa9e-8dfbd68f2aaf
+      mounttrait: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: M1y4BwE0GX3aab8KMKuqrdq2InRkqo/TsWXb4oXF0PMA7BHC7fkD3YrYmspKVKC/CfmJZ/Q3Tmk9QTFEx4Qk/eBFpwRzRFKlSIJi5X4AJaHOl2VNOXAkjy+kc2l/vXdPgv/DVZa7h/SPguoEZU0/WtXPcBf+tvtlYOxbxhb9eMT6TWu1ESbnc5cRHgEhw/xof0Zu8NFxWQP+2b/XBHtPusCnheTXuZiGwmOOULcS0sryRjbQvc4J6Ax+DDMq9kwFVgpXk/4+a3AgEW4ryPtvVBsjxX9taEiNFqS3wBKHES09Rbq9r+vwHEmdqzLqGOathYw1Thj2PPy2Dsy/bf0YI22Iw2bV2iB0+3mNLTPAV73JtFEqxRR2dQSpy1DskCKroqZBJmnVov58guDi6mzYAtV/Hs/1J5vcpuI3Q0sWvGrBZhGt5HSqppRAwIudfFLul0nZNYqyhp4RrDJTXQTN1pzUzXXWZl+eCwSnN21SGSH9DpCYmhzM94Ebm6lDfWQCTSMdEAjUn/MsAzkbBTxTj3qpTLU4y0HEMg5AnS+KiDKwNUZ3XYfiwpnMJiArYT9WMcB1XaGSZRbNHnlocbqrSqPZO8+9orPXi75t+UsmgUVxHUSn6S7vlDSYXEVJWzKdEdtf2WQv5Bdyu6Hrh8Sgxo3WwEVpuIbG3CtTgHF34Ec=
+        skinName: Alexutzerion5
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNTc2MDQ1MTAzNSwKICAicHJvZmlsZUlkIiA6ICJlYjMwY2YzNWYzOTE0MzQ5YjhkODcyNzFmN2Q3ZjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4dXR6ZXJpb241IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhOWNlN2Y2MWJjOGEwNGQwOGM2OTc0MTE5NDQ4MTYzNjdmMTYxMTk3OWY5ZDJkZTc1YjJkZDkyY2FhZjdhNDIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        updateSkins: false
+      inventory: {}
+      location:
+        bodyYaw: -53.993687
+        world: world
+        x: '-5.5'
+        y: '81.0'
+        z: '-6.5'
+        yaw: '-53.9937'
+        pitch: '-8.769'
+      scoreboardtrait: {}
+      rotationtrait:
+        globalParameters: {}
+      type: PLAYER
+    traitnames: owner,lookclose,commandtrait,mounttrait,skintrait,scoreboardtrait,type,inventory,rotationtrait,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '2':
+    metadata:
+      cached-skin-uuid: fdc0fc16-45c1-4432-ae1a-f9e201dd7aeb
+      cached-skin-uuid-name: polar
+    name: '&r'
+    uuid: 1725d886-b499-4dd6-a6d6-c5476b3c46f3
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: ajp start
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      spawned: true
+      owner:
+        uuid: 80e36f60-632d-3cb8-aa9e-8dfbd68f2aaf
+      mounttrait: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: FDv1KbIe3L2PRzd0BpmmGFvkuPn5BvCVpomyfHBiDRdQi6UlkoaYt5Gf0YcDhzPyPPbWpd6JU0Mucmrj0XwieKUwNEk3cXdK/ZareSEusTUxf5sqFdzFpq1TjM5UXqgUtvflcj5l9b20FHICsVxJTzyLjdrQG8mPlW7zNysxn9GMgaMotVKrfNaK5pwoePjgBON5QHiOL8FVOg1aABKtBDKsqzo3tKuhKC2Xfi8pLZnrYouRVRHeLCW+8c0bbsFOtr2UbTLAOPYQ8b8+FPxKACiWo1f+5ov6xLhlNEmCaIJLYXXS28Xj+0CyppS5xVQJfMhHWkIMYSZV/yFrIOdQk3MhXcOjqgwSEe7omf+wabXvSESgPhMlJzqT30Fr0bJxxYoGhv5PGE3YZZ5lfueWkynlKmL1kFeaftYUNCbX+ED+SFfS8QQmFDJOzviqjfTz5T7H+/IkVWPVqAsSC9SoqsoZ+cN2qWGs5TOfl1i9MiXHEAbBTbNptoeovaO8TUqR41vUbd29aKDa1ivvyuzFRRPrP/zaHLqLrw5Wy3bS3k0iQlGEob9rL9r3toSpxKdJs4aPSQ2iW0tdWrDH3OssI7vSO9ptuOaTAeIhWroxiif7QLYFuBkAiVWXoWYowvkhAyb092KoZ2aqlblEt8fD/ib0TGDUbHhKNNuders6esU=
+        skinName: polar
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNTc1NzkwNjA1MywKICAicHJvZmlsZUlkIiA6ICJmZGMwZmMxNjQ1YzE0NDMyYWUxYWY5ZTIwMWRkN2FlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2xhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzQ4NmEwMDJhZWZjNmMwZWQ1MzlkMTVmYzAwNDVjYjg0OWVjOTM5Yzk1ZTJiODA0OTQ3OTgyYjU5YWZjMjMxIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      inventory: {}
+      location:
+        bodyYaw: -178.99391
+        world: world
+        x: '-4.5'
+        y: '81.0'
+        z: '8.5'
+        yaw: '-178.9939'
+        pitch: '-7.1291'
+      scoreboardtrait: {}
+      rotationtrait:
+        globalParameters: {}
+      type: PLAYER
+    traitnames: owner,commandtrait,lookclose,mounttrait,skintrait,scoreboardtrait,type,inventory,rotationtrait,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '1':
+    metadata:
+      cached-skin-uuid: f7c77d99-9f15-4a66-a87d-c4a51ef30d19
+      cached-skin-uuid-name: hypixel
+    name: '&r'
+    uuid: 23181a13-89d5-461c-aef8-64fd17f167a8
+    traits:
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: deluxehub open serverselector
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      spawned: true
+      owner:
+        uuid: 80e36f60-632d-3cb8-aa9e-8dfbd68f2aaf
+      mounttrait: {}
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: l9ZU14cKV7Sz/iTcxCF+k9AVVTsSv3B1kO7fRRUM4fOovfB45sbeswyklDYsyPnsw4PuKw4iBYS7CeeootvGUredG0FQu+pMwKeNzvbZwNZI8/aY9a2a8jLmzzk6p8D6/YV4lwcG2B0bik6z2uPu3zJB6vk6nHFVkh97E04ZQpaJ6KSbtsGxJ1LbfUQjIgYeQOzV10mGqZD1+cybcmmmW/VZ+osNGToGqUMzhQ2RKLozKIyH756PEVWgiBZaa4KSBHfI/B6Fu6T2ozAQfhiXM6kUP6XNyFn7/Az/WaTQ0bdy20uBY3NeBtuEsljAT1BdmFFHFVTkEAs4whae67iz0hZ8ir/UttZO/By5rqYXBzgcT3W0wCOJpvDHZCLNbO9lrZKT5V83kb8IsEXTiXC5GeRIEK9IzUHeiRZzCcS9CuXSCsNjqLh8LefB3TMWG534lWxcNpOuyZA3u7rIry2uP6K1dLOkRntzaqpojUwC7Fj3dTTs2wl7qcl4KhTovqnbPb4wn7dzrGUW1DBUNusyl5YzcWR6FYMX3XzqSHhGOIjbr99xkINg8s3XQsJc/XkVHxcQS4TX3AN4VJ5ataml81dMzsbLmVUSCanf+7SSIn3LbHwQN/Gb9hoD93FZxeTrMalo5nI5dhUpyVzqYMU72IkExUzGTGDbcMLeET6iWiw=
+        skinName: hypixel
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNTc1OTY0MjA2OSwKICAicHJvZmlsZUlkIiA6ICJmN2M3N2Q5OTlmMTU0YTY2YTg3ZGM0YTUxZWYzMGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJoeXBpeGVsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0N2MwNTg4NDVmM2I2ZDAzNDhhYWU1NmI2YWExYTYxYzQ2OWQ4NGNiYWJhMDQ4MTY0MDUwYTFkMzM1ZDZlYTAiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3OTEyNzkwZmYxNjRiOTMxOTZmMDhiYTcxZDBlNjIxMjkzMDQ3NzZkMGYzNDczMzRmOGE2ZWFlNTA5ZjhhNTYiCiAgICB9CiAgfQp9
+        updateSkins: false
+      inventory: {}
+      location:
+        bodyYaw: -178.08328
+        world: world
+        x: '-11.55'
+        y: '81.0'
+        z: '6.0095'
+        yaw: '-178.0833'
+        pitch: '-12.6246'
+      scoreboardtrait: {}
+      rotationtrait:
+        globalParameters: {}
+      type: PLAYER
+    traitnames: owner,commandtrait,lookclose,mounttrait,skintrait,scoreboardtrait,type,inventory,rotationtrait,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

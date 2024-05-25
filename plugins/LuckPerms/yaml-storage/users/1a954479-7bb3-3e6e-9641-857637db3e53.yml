@@ -1,0 +1,7 @@
+uuid: 1a954479-7bb3-3e6e-9641-857637db3e53
+name: M1ha1V2
+primary-group: staff
+permissions:
+- '*'
+parents:
+- staff

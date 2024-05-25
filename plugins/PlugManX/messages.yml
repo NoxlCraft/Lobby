@@ -31,16 +31,16 @@ enable:
   already-enabled: '&c{0} is already enabled.'
   enabled: '&9{0} has been enabled.'
 error:
-  ignored: '&cPlugMan is configured to ignore that plugin.'
-  invalid-plugin: '&cThat is not a valid plugin.'
-  no-permission: '&cYou do not have permission to do this.'
-  specify-plugin: '&cYou must specify a plugin.'
-  specify-command: '&cYou must specify a command.'
-  paper-plugin: "&cPaper plugins are currently not supported, I'm sorry."
+  ignored: '&cPlugMan este configurat să ignore acest plugin.'
+  invalid-plugin: '&cAcesta nu este un plugin valid.'
+  no-permission: '&cNu ai permisiunea să faci asta.'
+  specify-plugin: '&cTrebuie să specifici un plugin.'
+  specify-command: '&cTrebuie să specifici o comandă.'
+  paper-plugin: "&cPluginurile Paper nu sunt suportate în prezent, îmi pare rău."
   usage:
-    command: '&7- &9Command: &7{0}'
-    description: '&7- &9Description: &7{0}'
-    usage: '&7- &9Usage: &7{0}'
+    command: '&7- &9Comandă: &7{0}'
+    description: '&7- &9Descriere: &7{0}'
+    usage: '&7- &9Utilizare: &7{0}'
 help:
   header: '&7--------------------- [&a PlugMan &7] ---------------------'
   help: '&7- &a/plugman help &f- &7Displays this.'

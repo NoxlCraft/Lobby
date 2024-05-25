@@ -8,199 +8,176 @@
 # 	
 # 	
 prefix: ''
-alreadyin: '&cYou are already in parkour!'
+alreadyin: '[lang]ajpparkour.alreadyin[/lang]'
 start:
-  score: '&aStarted parkour! &7Try to beat your high-score of &r{SCORE}&7!'
-  first: '&aStarted parkour!'
-  no-area-player: '&cNo arena or player could be found called ''{INPUT}''!'
-  unknown-player: '&cCannot find that player!'
-  unknown-area: '&cCannot find that area!'
-  started-other: '&aStarted parkour for {PLY}!'
-  started-other-area: '&aStarted parkour for &l&f{PLY}&r&a on area &l&f{AREA}&r&a!'
-noperm: '&cYou do not have permission to do that!'
-score: '&7Score &r&l{SCORE}'
-beatrecord: '&aCongrats!&7 You beat your previous score of &f{SCORE}&7!'
-beatrecord-ingame: '&aCongrats! &7You just beat your previous highscore! Keep going!'
-disabledworld: '&cYou cannot start parkour from this world!'
+  score: '[lang]ajpparkour.start.score[args][arg]{SCORE}[/arg][/args][/lang]'
+  first: '[lang]ajpparkour.start.first[/lang]'
+  no-area-player: '[lang]ajpparkour.start.no-area-player[args][arg]{INPUT}[/arg][/args][/lang]'
+  unknown-player: '[lang]ajpparkour.start.unknown-player[/lang]'
+  unknown-area: '[lang]ajpparkour.start.unknown-area[/lang]'
+  started-other: '[lang]ajpparkour.start.started-other[args][arg]{PLY}[/arg][/args][/lang]'
+  started-other-area: '[lang]ajpparkour.start.started-other-area[args][arg]{PLY}[/arg][arg]{AREA}[/arg][/args][/lang]'
+noperm: '[lang]ajpparkour.noperm[/lang]'
+score: '[lang]ajpparkour.score[args][arg]{SCORE}[/arg][/args][/lang]'
+beatrecord: '[lang]ajpparkour.beatrecord[args][arg]{SCORE}[/arg][/args][/lang]'
+beatrecord-ingame: '[lang]ajpparkour.beatrecord-ingame[/lang]'
+disabledworld: '[lang]ajpparkour.disabledworld[/lang]'
 block:
-  potion: '&cNope!'
-  place: '&cNope!'
-  break: '&cNope!'
-numberformatexception: '&cThat is not a valid number!'
-areafull: '&cCould not start parkour because the area is full! &7Try again later.'
-must-be-ingame: '&cYou must be in-game to do that!'
-not-in-game: '&cYou must do this command from the console!'
-couldnt-find-player: '&cCould not find player {PLAYER}'
+  potion: '[lang]ajpparkour.block.potion[/lang]'
+  place: '[lang]ajpparkour.block.place[/lang]'
+  break: '[lang]ajpparkour.block.break[/lang]'
+numberformatexception: '[lang]ajpparkour.numberformatexception[/lang]'
+areafull: '[lang]ajpparkour.areafull[/lang]'
+must-be-ingame: '[lang]ajpparkour.must-be-ingame[/lang]'
+not-in-game: '[lang]ajpparkour.not-in-game[/lang]'
+couldnt-find-player: '[lang]ajpparkour.couldnt-find-player[args][arg]{PLAYER}[/arg][/args][/lang]'
 list:
-  header: '&9Players playing parkour:'
-  format: '&6{NAME} &7- &e{SCORE} jumps'
-  none: '&7None'
-nobodys-played-yet: '&cNobody has played parkour yet!'
-first-position: '&eFirst position set!'
-second-position: '&eSecond position set!'
-setup-done: '&aYou can now do &2/ajParjour start&a to do parkour!'
+  header: '[lang]ajpparkour.list.header[/lang]'
+  format: '[lang]ajpparkour.list.format[args][arg]{NAME}[/arg][arg]{SCORE}[/arg][/args][/lang]'
+  none: '[lang]ajpparkour.list.none[/lang]'
+nobodys-played-yet: '[lang]ajpparkour.nobodys-played-yet[/lang]'
+first-position: '[lang]ajpparkour.first-position[/lang]'
+second-position: '[lang]ajpparkour.second-position[/lang]'
+setup-done: '[lang]ajpparkour.setup-done[/lang]'
 reload:
-  usage: '&cUsage: /{CMD} reload <file>&7 Files: {POSS}'
+  usage: '[lang]ajpparkour.reload.usage[args][arg]{CMD}[/arg][arg]{POSS}[/arg][/args][/lang]'
 fallpos:
-  set: '&aFall position set!'
-  removed: '&aFall position removed!'
+  set: '[lang]ajpparkour.fallpos.set[/lang]'
+  removed: '[lang]ajpparkour.fallpos.removed[/lang]'
 top:
-  header: '&9Top Scores:'
-  header-area: '&9Top Scores for {AREA}:'
-  format: '&a{#}. &6{NAME} &e{SCORE} jumps'
+  header: '[lang]ajpparkour.top.header[/lang]'
+  header-area: '[lang]ajpparkour.top.header-area[args][arg]{AREA}[/arg][/args][/lang]'
+  format: '[lang]ajpparkour.top.format[args][arg]{NAME}[/arg][arg]{SCORE}[/arg][/args][/lang]'
 fall:
-  normal: '&cYou fell! &7Your score was &r{SCORE}'
+  normal: '[lang]ajpparkour.fall.normal[args][arg]{SCORE}[/arg][/args][/lang]'
   force:
-    base: '&cYour parkour game was ended because '
+    base: '[lang]ajpparkour.fall.force.base[/lang]'
     reasons:
-      teleport: you teleported
-      afk: you went AFK.
+      teleport: '[lang]ajpparkour.fall.force.reasons.teleport[/lang]'
+      afk: '[lang]ajpparkour.fall.force.reasons.afk[/lang]'
 errors:
   blocknotair:
-    base: '&c&lAn error occured:&r&c The block is not air!'
-    player: '&6Tell an admin, and try again later.'
-    admin: '&6Make sure the parkour area is completly air, and that the plugin has
-      been correctly set up by reading /{CMD} setup.'
+    base: '[lang]ajpparkour.errors.blocknotair.base[/lang]'
+    player: '[lang]ajpparkour.errors.blocknotair.player[/lang]'
+    admin: '[lang]ajpparkour.errors.blocknotair.admin[args][arg]{CMD}[/arg][/args][/lang]'
   notsetup:
-    base: '&cajParkour has not been set up yet.'
-    player: '&6Ask an admin to set it up!'
-    admin: '&6For info on how to set it up, do /{CMD} setup'
-  too-many-players: '&cThere are too many players in parkour right now. Try again
-    later.'
+    base: '[lang]ajpparkour.errors.notsetup.base[/lang]'
+    player: '[lang]ajpparkour.errors.notsetup.player[/lang]'
+    admin: '[lang]ajpparkour.errors.notsetup.admin[args][arg]{CMD}[/arg][/args][/lang]'
+  too-many-players: '[lang]ajpparkour.errors.too-many-players[/lang]'
 migrate:
-  more-args: '&cPlease provide the source to migrate from!'
-  success: '&aMigrated {COUNT} scores!'
-  error: '&cSomething went wrong. There is probably more information in the console.'
+  more-args: '[lang]ajpparkour.migrate.more-args[/lang]'
+  success: '[lang]ajpparkour.migrate.success[args][arg]{COUNT}[/arg][/args][/lang]'
+  error: '[lang]ajpparkour.migrate.error[/lang]'
 placeholders:
   stats:
-    no-data: '---'
-    time-format: '{m}m {s}s'
+    no-data: '[lang]ajpparkour.placeholders.stats.no-data[/lang]'
+    time-format: '[lang]ajpparkour.placeholders.stats.time-format[args][arg]{m}[/arg][arg]{s}[/arg][/args][/lang]'
   current:
-    no-data: '0'
+    no-data: '[lang]ajpparkour.placeholders.current.no-data[/lang]'
 commands:
   help:
-    header: '&aajParkour made by &2ajgeiss0702&a!'
-    start: '&6 /{CMD} start &7- &9Start parkour!'
-    startarea: '&6 /{CMD} start <area> &7- &9Start parkour in a certain area.'
-    startothers: '&6 /{CMD} start <player> [area] &7- &9Start another player''s parkour
-      in a certain area.'
-    top: '&6 /{CMD} top &7- &9See the top 10 players!'
-    list: '&6 /{CMD} list &7- &9See everyone that is playing parkour, and their current
-      scores.'
-    setup: '&6 /{CMD} setup &7- &9Commands for setting up the plugin. &7(required
-      permssion: ajparkour.setup)'
-    portals: '&6 /{CMD} portals &7- &9Commands for setting up portals.'
-    areas: '&6 /{CMD} areas &7- &9List all loaded areas'
+    header: '[lang]ajpparkour.commands.help.header[/lang]'
+    start: '[lang]ajpparkour.commands.help.start[args][arg]{CMD}[/arg][/args][/lang]'
+    startarea: '[lang]ajpparkour.commands.help.startarea[args][arg]{CMD}[/arg][/args][/lang]'
+    startothers: '[lang]ajpparkour.commands.help.startothers[args][arg]{CMD}[/arg][/args][/lang]'
+    top: '[lang]ajpparkour.commands.help.top[args][arg]{CMD}[/arg][/args][/lang]'
+    list: '[lang]ajpparkour.commands.help.list[args][arg]{CMD}[/arg][/args][/lang]'
+    setup: '[lang]ajpparkour.commands.help.setup[args][arg]{CMD}[/arg][/args][/lang]'
+    portals: '[lang]ajpparkour.commands.help.portals[args][arg]{CMD}[/arg][/args][/lang]'
+    areas: '[lang]ajpparkour.commands.help.areas[args][arg]{CMD}[/arg][/args][/lang]'
   setup:
-    header: '&aajParkour&2 setup commands'
-    create: '&6 /{CMD} setup create &7- &9Create an area'
-    pos1: '&6 /{CMD} setup pos1 &7- &9Set the first position'
-    pos2: '&6 /{CMD} setup pos2 &7- &9Set the second position'
-    we: '&6 /{CMD} setup we &7- &9Select first and second position with worldedit'
-    fallpos: '&6 /{CMD} setup fallpos &7- &9Set fall position!'
-    edit: '&6 /{CMD} edit &7- &9Load an existing area into the editing queue.'
-    info: '&6 /{CMD} setup info &7- &9Show which points you have set so far!'
-    diff: '&6 /{CMD} setup difficulty &7- &9Set the area''s difficulty!'
-    max: '&6 /{CMD} setup max &7- &9Set the maximum number of people allowed in the
-      area!'
-    save: '&6 /{CMD} setup save &7- &9Saves and enabled the area. (This should be
-      done last)'
+    header: '[lang]ajpparkour.commands.setup.header[/lang]'
+    create: '[lang]ajpparkour.commands.setup.create[args][arg]{CMD}[/arg][/args][/lang]'
+    pos1: '[lang]ajpparkour.commands.setup.pos1[args][arg]{CMD}[/arg][/args][/lang]'
+    pos2: '[lang]ajpparkour.commands.setup.pos2[args][arg]{CMD}[/arg][/args][/lang]'
+    we: '[lang]ajpparkour.commands.setup.we[args][arg]{CMD}[/arg][/args][/lang]'
+    fallpos: '[lang]ajpparkour.commands.setup.fallpos[args][arg]{CMD}[/arg][/args][/lang]'
+    edit: '[lang]ajpparkour.commands.setup.edit[args][arg]{CMD}[/arg][/args][/lang]'
+    info: '[lang]ajpparkour.commands.setup.info[args][arg]{CMD}[/arg][/args][/lang]'
+    diff: '[lang]ajpparkour.commands.setup.diff[args][arg]{CMD}[/arg][/args][/lang]'
+    max: '[lang]ajpparkour.commands.setup.max[args][arg]{CMD}[/arg][/args][/lang]'
+    save: '[lang]ajpparkour.commands.setup.save[args][arg]{CMD}[/arg][/args][/lang]'
   portals:
-    header: '&aajParkour&2 portal commands'
-    list: '&6 /{CMD} portals list &7- &9Lists all portals.'
-    create: '&6 /{CMD} portals create &7- &9Create a portal.'
-    remove: '&6 /{CMD} portals remove &7- &9Remove a portal.'
+    header: '[lang]ajpparkour.commands.portals.header[/lang]'
+    list: '[lang]ajpparkour.commands.portals.list[args][arg]{CMD}[/arg][/args][/lang]'
+    create: '[lang]ajpparkour.commands.portals.create[args][arg]{CMD}[/arg][/args][/lang]'
+    remove: '[lang]ajpparkour.commands.portals.remove[args][arg]{CMD}[/arg][/args][/lang]'
   listareas:
-    header: '&9Loaded parkour areas:'
-    format: '&7 - &a{NAME} &7Difficulty: &9{DIFFICULTY}'
-    none: '&7No areas loaded!'
-  not-on-whitelist: '&cYou cannot use this command while on parkour!'
-not-from-console: '&cYou cannot run this command from the console!'
+    header: '[lang]ajpparkour.commands.listareas.header[/lang]'
+    format: '[lang]ajpparkour.commands.listareas.format[args][arg]{NAME}[/arg][arg]{DIFFICULTY}[/arg][/args][/lang]'
+    none: '[lang]ajpparkour.commands.listareas.none[/lang]'
+  not-on-whitelist: '[lang]ajpparkour.commands.not-on-whitelist[/lang]'
+not-from-console: '[lang]ajpparkour.not-from-console[/lang]'
 setup:
-  no-name: '&cYou must name your area!'
-  invalid-name: '&cYou can''t name your arena that.'
+  no-name: '[lang]ajpparkour.setup.no-name[/lang]'
+  invalid-name: '[lang]ajpparkour.setup.invalid-name[/lang]'
   edit:
-    no-name: '&cPlease enter the name of an area to edit!'
-    loaded: '&aArea loaded for editing! Re-set positions using /{CMD} setup'
-    no-area: '&cAn area with that name does not exist!'
-  need-to-create: '&aYou must create an area before editing it!'
+    no-name: '[lang]ajpparkour.setup.edit.no-name[/lang]'
+    loaded: '[lang]ajpparkour.setup.edit.loaded[args][arg]{CMD}[/arg][/args][/lang]'
+    no-area: '[lang]ajpparkour.setup.edit.no-area[/lang]'
+  need-to-create: '[lang]ajpparkour.setup.need-to-create[/lang]'
   we:
-    not-installed: '&cYou need to have WorldEdit installed to use this command!&7
-      Try using the built-in pos1 and pos2 setup commands.'
-    incomplete-selection: '&cYou must make a complete worldedit selection before doing
-      this!'
-  created: '&aArea created and added to the editing queue. See &2/ajParkour setup&a
-    or view the plugin page for steps to set it up!'
-  already-creating: '&cAn arena is currently being set up. &aPlease either save that
-    arena, or run this command again to override. (&c&lNOTE:&r&c Overriding will erase
-    all of the data of the arena being set up before!)'
+    not-installed: '[lang]ajpparkour.setup.we.not-installed[/lang]'
+    incomplete-selection: '[lang]ajpparkour.setup.we.incomplete-selection[/lang]'
+  created: '[lang]ajpparkour.setup.created[/lang]'
+  already-creating: '[lang]ajpparkour.setup.already-creating[/lang]'
   info:
-    header: '&6Colors: &aSet &7Not set (optional) &cNot set (required)'
+    header: '[lang]ajpparkour.setup.info.header[/lang]'
   set:
-    pos1: '&aFirst position set!'
-    pos2: '&aSecond position set!'
-    fallpos: '&aFall position set!'
-    we: '&aPositions set!'
-    diff: '&aDifficulty set!'
-    max: '&aMax players set!'
+    pos1: '[lang]ajpparkour.setup.set.pos1[/lang]'
+    pos2: '[lang]ajpparkour.setup.set.pos2[/lang]'
+    fallpos: '[lang]ajpparkour.setup.set.fallpos[/lang]'
+    we: '[lang]ajpparkour.setup.set.we[/lang]'
+    diff: '[lang]ajpparkour.setup.set.diff[/lang]'
+    max: '[lang]ajpparkour.setup.set.max[/lang]'
   max:
-    need-args: '&cPlease enter a number!'
+    need-args: '[lang]ajpparkour.setup.max.need-args[/lang]'
   diff:
-    not-valid: '&cInvalid difficulty! &7Valid difficulties are &feasy&7, &fmedium&7,
-      &fhard&7, &fexpert&7, and &fbalanced'
-    need-args: |-
-      &cPlease enter a difficulty! &7Valid difficulties are &feasy&7, &fmedium&7, &fhard&7, &fexpert&7, and &fbalanced&7.
-      &aBalanced difficulty will make the parkour get harder as the player gets higher scores.
+    not-valid: '[lang]ajpparkour.setup.diff.not-valid[/lang]'
+    need-args: '[lang]ajpparkour.setup.diff.need-args[/lang]'
   save:
-    not-done: '&cYou have not set all of the required settings! &7Check &f/{CMD} setup
-      info&7 to see what you have left.'
-    success: '&aArena {NAME} saved and loaded!'
+    not-done: '[lang]ajpparkour.setup.save.not-done[args][arg]{CMD}[/arg][/args][/lang]'
+    success: '[lang]ajpparkour.setup.save.success[args][arg]{NAME}[/arg][/args][/lang]'
   area:
-    too-small: |-
-      &cThe area you just created does not meet the minimum reccomended size of 20x20x20!
-      &7You can continue creating the area, but know you may run into issues with players running into each other, and possibly parkour going outside the area!
-      &7Your area: {l}x{w}x{h} (XxZxY)
+    too-small: '[lang]ajpparkour.setup.area.too-small[args][arg]{l}[/arg][arg]{w}[/arg][arg]{h}[/arg][/args][/lang]'
 portals:
   list:
-    header: '&2Parkour Portals'
+    header: '[lang]ajpparkour.portals.list.header[/lang]'
     format:
-      area: '&2{NAME} &7- &a{COORDS} &7- &a{AREA}'
-      no-area: '&2{NAME} &7- &a{COORDS}'
+      area: '[lang]ajpparkour.portals.list.format.area[args][arg]{NAME}[/arg][arg]{COORDS}[/arg][arg]{AREA}[/arg][/args][/lang]'
+      no-area: '[lang]ajpparkour.portals.list.format.no-area[args][arg]{NAME}[/arg][arg]{COORDS}[/arg][/args][/lang]'
   create:
-    help: '&cUsage: /{CMD} portals create <name> [area]'
-    success: '&aCreated a portal named ''{NAME}'' at your current location! &7You
-      might have to restart the server for the portal to start working.'
+    help: '[lang]ajpparkour.portals.create.help[args][arg]{CMD}[/arg][/args][/lang]'
+    success: '[lang]ajpparkour.portals.create.success[args][arg]{NAME}[/arg][/args][/lang]'
   remove:
-    help: '&cPlease enter the name of the portal to be removed!'
-    cannot-find: '&cCannot find a portal with that name! Make sure you spelled it
-      correctly, and that you put the same caps too.'
-    success: '&aRemoved portal ''{NAME}''!'
-    no-portals: '&cNo portals have been set up yet! Please create portals before removing
-      them.'
+    help: '[lang]ajpparkour.portals.remove.help[/lang]'
+    cannot-find: '[lang]ajpparkour.portals.remove.cannot-find[/lang]'
+    success: '[lang]ajpparkour.portals.remove.success[args][arg]{NAME}[/arg][/args][/lang]'
+    no-portals: '[lang]ajpparkour.portals.remove.no-portals[/lang]'
 gui:
   selector:
-    title: Block Selector
+    title: '[lang]ajpparkour.gui.selector.title[/lang]'
     items:
       random:
-        title: '&rRandom Blocks'
-        lore: '&7Will pick a random block.'
+        title: '[lang]ajpparkour.gui.selector.items.random.title[/lang]'
+        lore: '[lang]ajpparkour.gui.selector.items.random.lore[/lang]'
       selected:
-        lore: '&aCurrently Selected'
+        lore: '[lang]ajpparkour.gui.selector.items.selected.lore[/lang]'
       nextpage:
-        name: '&a&lNext Page'
+        name: '[lang]ajpparkour.gui.selector.items.nextpage.name[/lang]'
       prevpage:
-        name: '&a&lPrevious Page'
+        name: '[lang]ajpparkour.gui.selector.items.prevpage.name[/lang]'
 items:
   blockselector:
-    name: '&aBlock Selector'
+    name: '[lang]ajpparkour.items.blockselector.name[/lang]'
 reset:
-  usage: '&cUsage: /{CMD} reset <player>'
-  success: '&aReset score of {PLAYER} to 0'
+  usage: '[lang]ajpparkour.reset.usage[args][arg]{CMD}[/arg][/args][/lang]'
+  success: '[lang]ajpparkour.reset.success[args][arg]{PLAYER}[/arg][/args][/lang]'
 blockselector:
-  openedfor: '&aOpened block selector for {PLAYER}'
+  openedfor: '[lang]ajpparkour.blockselector.openedfor[args][arg]{PLAYER}[/arg][/args][/lang]'
 areas:
   remove:
-    help: '&cPlease enter the name of the area to be removed!'
-    cannot-find: '&cCannot find an area with that name! Make sure you spelled it correctly,
-      and that you put the same caps too.'
-    success: '&aRemoved area ''{NAME}''!'
+    help: '[lang]ajpparkour.areas.remove.help[/lang]'
+    cannot-find: '[lang]ajpparkour.areas.remove.cannot-find[/lang]'
+    success: '[lang]ajpparkour.areas.remove.success[args][arg]{NAME}[/arg][/args][/lang]'

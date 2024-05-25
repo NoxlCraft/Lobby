@@ -1,6 +1,10 @@
 # LuckPerms UUID lookup cache
 e86faf27-61ee-3125-bed7-0892b6d32e85:madalina16
 80e36f60-632d-3cb8-aa9e-8dfbd68f2aaf:NaysKutzu
-8821e9fb-2bfa-44f0-85ef-28a89df6df14:M1ha1V2
-eb30cf35-f391-4349-b8d8-7271f7d7f499:Alexutzerion5
+fe207da4-45aa-3a2a-bf67-72a700290388:Player109
+4c4af65a-e991-33a8-a762-2d145c215578:Player875
+80b62fad-b586-391b-8b20-231e8ec63ad8:NyxalisIsGod
+889e823c-01d5-3f7b-a877-c5820d695cbb:Alexutzerion5
 bf3c476e-381f-3377-af73-8dcd17fc6514:Alice152
+6b50159e-6b20-30e7-9ef6-13f43f09881e:Avexyh
+1a954479-7bb3-3e6e-9641-857637db3e53:M1ha1V2

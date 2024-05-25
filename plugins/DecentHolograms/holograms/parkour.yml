@@ -1,4 +1,4 @@
-location: world:-11.500:84.000:5.500
+location: world:-26.500:84.500:-12.500
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,6 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: '&d'
-    height: 0.3
+  - content: '[lang]server_lobby_dh_parkour_line_1[args][arg]%ajpk_jumping%[/arg][/args][/lang]'
+  - content: '[lang]server_lobby_dh_parkour_line_2[/lang]'
   actions: {}
